@@ -1,0 +1,56 @@
+{
+  "T_emotion": 1.511487,
+  "T_nli": 0.6244,
+  "vector_T_emotion": [
+    7.107131,
+    0.915337,
+    2.08268,
+    1.310611,
+    1.775522,
+    2.239045,
+    4.943984
+  ],
+  "vector_T_distress": [
+    1.218259,
+    2.01477,
+    0.948363,
+    20.0,
+    10.941742
+  ],
+  "ece_emotion_vector": 0.0463,
+  "ece_distress_vector": 0.0871,
+  "f1_emotion_val_vector": 0.5596,
+  "f1_distress_val_vector": 0.6872,
+  "roberta_score_p95": 0.699979,
+  "_source_checkpoint": "semantic_emotion_phase3_8_v2_2_20260513_091019_gold_best.pt (v2.2 boost swap, v2 warm-start)",
+  "_calibration_source": "eval/report/semantic_emotion_phase4_calibration_v2_2.json",
+  "_p95_source": "models/roberta/checkpoints/score_norm_result.json (logit bias adoption 2026-05-22)",
+  "_vector_T_label_order": [
+    "행복",
+    "중립",
+    "슬픔",
+    "공포",
+    "혐오",
+    "분노",
+    "놀람"
+  ],
+  "emotion_logit_bias": [
+    0.671429,
+    1.121429,
+    1.101429,
+    -2.478572,
+    -1.178572,
+    0.871429,
+    -0.108572
+  ],
+  "emotion_logit_bias_label_order": [
+    "행복",
+    "중립",
+    "슬픔",
+    "공포",
+    "혐오",
+    "분노",
+    "놀람"
+  ],
+  "emotion_logit_bias_source": "eval/report/emotion_logit_bias_tuning_20260521.json"
+}

@@ -1,0 +1,23 @@
+{
+  "crisis_threshold": 0.35,
+  "roberta_score_p95": 0.699979,
+  "emotion_logit_bias": [
+    0.671429,
+    1.121429,
+    1.101429,
+    -2.478572,
+    -1.178572,
+    0.871429,
+    -0.108572
+  ],
+  "emotion_logit_bias_label_order": [
+    "행복",
+    "중립",
+    "슬픔",
+    "공포",
+    "혐오",
+    "분노",
+    "놀람"
+  ],
+  "emotion_logit_bias_source": "eval/report/emotion_logit_bias_tuning_20260521.json"
+}
