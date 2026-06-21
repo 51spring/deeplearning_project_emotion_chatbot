@@ -1,0 +1,55 @@
+# Git / local metadata
+.git
+.gitignore
+.dockerignore
+.local/
+.venv/
+venv/
+env/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.cache/
+
+# Frontend local artifacts
+frontend/node_modules/
+frontend/build/
+frontend/.cache/
+
+# Large or private data
+data/raw/
+data/processed/
+backend/db/*.db
+eval/*.db
+eval/report/*.db
+
+# Model checkpoints and binary weights are mounted at runtime.
+models/roberta/checkpoints/
+models/qwen/checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+
+# Local secrets / logs / generated reports
+.env
+.env.local
+*.env
+*.log
+logs/
+runs/
+wandb/
+mlruns/
+tmp/
+temp/
+*.tmp
+
+# Submission bundles are not needed inside the runtime image.
+github_submission_20260521/
+github_submission_20260521.zip
