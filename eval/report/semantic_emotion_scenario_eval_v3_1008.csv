@@ -1,0 +1,1009 @@
+text,primary_emotion,secondary_emotion,distress_level,situation_tag,markerless,expected_response_style,source,notes
+시험에 합격했다는 소식을 들었어,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=plain; case=exam_pass
+"와, 시험에 합격했다는 소식을 들었어!",행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=interjection; case=exam_pass
+"...시험에 합격했다는 소식을 들었어, 라는 생각만 자꾸 들어",행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=exam_pass
+시험에 합격했다는 소식을 ㅎㅎ,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=exam_pass
+시험에 합격했다는 소식을 들었어. 오늘 진짜 운 좋다.,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=exam_pass
+오늘 — 시험에 합격했다는 소식을 들었다.,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=diary; case=exam_pass
+"응, 그 얘긴데, 시험에 합격했다는 소식을 들었어",행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=exam_pass
+시험에 합격했다는 소식을 들었어요,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=honorific; case=exam_pass
+시험에 합격했다는 소식을 들었어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=exam_pass
+시험에 합격했다는 소식을 들었어. 입꼬리가 자꾸 올라가,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=somatic; case=exam_pass
+"그렇게 좋다는 건 아닌데, 시험에 합격했다는 소식을 들었어",행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=negation; case=exam_pass
+시험에 합격했다는 소식을 들었어. 이게 진짜인 걸까?,행복,,0,행복_exam_pass,true,celebrate,scenario_eval_v3_1008,style=question; case=exam_pass
+오랜만에 친구 만나서 시간 보냈어,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=plain; case=friend_meet
+"와, 오랜만에 친구 만나서 시간 보냈어!",행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=interjection; case=friend_meet
+"...오랜만에 친구 만나서 시간 보냈어, 라는 생각만 자꾸 들어",행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=friend_meet
+오랜만에 친구 만나서 ㅎㅎ,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=friend_meet
+오랜만에 친구 만나서 시간 보냈어. 오늘 진짜 운 좋다.,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=friend_meet
+오늘 — 오랜만에 친구 만나서 시간 보냈다.,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=diary; case=friend_meet
+"응, 그 얘긴데, 오랜만에 친구 만나서 시간 보냈어",행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=friend_meet
+오랜만에 친구 만나서 시간 보냈어요,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=honorific; case=friend_meet
+오랜만에 친구 만나서 시간 보냈어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=friend_meet
+오랜만에 친구 만나서 시간 보냈어. 입꼬리가 자꾸 올라가,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=somatic; case=friend_meet
+"그렇게 좋다는 건 아닌데, 오랜만에 친구 만나서 시간 보냈어",행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=negation; case=friend_meet
+오랜만에 친구 만나서 시간 보냈어. 이게 진짜인 걸까?,행복,,0,행복_friend_meet,true,celebrate,scenario_eval_v3_1008,style=question; case=friend_meet
+가족이랑 기념일을 함께 보냈어,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=plain; case=family_anniv
+"와, 가족이랑 기념일을 함께 보냈어!",행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=interjection; case=family_anniv
+"...가족이랑 기념일을 함께 보냈어, 라는 생각만 자꾸 들어",행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=family_anniv
+가족이랑 기념일을 함께 ㅎㅎ,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=family_anniv
+가족이랑 기념일을 함께 보냈어. 오늘 진짜 운 좋다.,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=family_anniv
+오늘 — 가족이랑 기념일을 함께 보냈다.,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=diary; case=family_anniv
+"응, 그 얘긴데, 가족이랑 기념일을 함께 보냈어",행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=family_anniv
+가족이랑 기념일을 함께 보냈어요,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=honorific; case=family_anniv
+가족이랑 기념일을 함께 보냈어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=family_anniv
+가족이랑 기념일을 함께 보냈어. 입꼬리가 자꾸 올라가,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=somatic; case=family_anniv
+"그렇게 좋다는 건 아닌데, 가족이랑 기념일을 함께 보냈어",행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=negation; case=family_anniv
+가족이랑 기념일을 함께 보냈어. 이게 진짜인 걸까?,행복,,0,행복_family_anniv,true,celebrate,scenario_eval_v3_1008,style=question; case=family_anniv
+오늘 운동 30분을 채웠어,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=plain; case=small_win
+"와, 오늘 운동 30분을 채웠어!",행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=interjection; case=small_win
+"...오늘 운동 30분을 채웠어, 라는 생각만 자꾸 들어",행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=small_win
+오늘 운동 30분을 ㅎㅎ,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=small_win
+오늘 운동 30분을 채웠어. 오늘 진짜 운 좋다.,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=small_win
+오늘 — 오늘 운동 30분을 채웠다.,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=diary; case=small_win
+"응, 그 얘긴데, 오늘 운동 30분을 채웠어",행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=small_win
+오늘 운동 30분을 채웠어요,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=honorific; case=small_win
+오늘 운동 30분을 채웠어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=small_win
+오늘 운동 30분을 채웠어. 입꼬리가 자꾸 올라가,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=somatic; case=small_win
+"그렇게 좋다는 건 아닌데, 오늘 운동 30분을 채웠어",행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=negation; case=small_win
+오늘 운동 30분을 채웠어. 이게 진짜인 걸까?,행복,,0,행복_small_win,true,celebrate,scenario_eval_v3_1008,style=question; case=small_win
+맛있는 거 먹어서 기분 좋아,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=plain; case=good_food
+"와, 맛있는 거 먹어서 기분 좋아!",행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=interjection; case=good_food
+"...맛있는 거 먹어서 기분 좋아, 라는 생각만 자꾸 들어",행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=self_talk; case=good_food
+맛있는 거 먹어서 ㅎㅎ,행복,,0,행복_good_food,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=good_food
+맛있는 거 먹어서 기분 좋아. 오늘 진짜 운 좋다.,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=sns_long; case=good_food
+오늘 — 맛있는 거 먹어서 기분 좋았다.,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=diary; case=good_food
+"응, 그 얘긴데, 맛있는 거 먹어서 기분 좋아",행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=dialogue; case=good_food
+맛있는 거 먹어서 기분 좋아요,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=honorific; case=good_food
+맛있는 거 먹어서 기분 좋아. 마치 햇살이 들이치는 것 같아,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=metaphorical; case=good_food
+맛있는 거 먹어서 기분 좋아. 입꼬리가 자꾸 올라가,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=somatic; case=good_food
+"그렇게 좋다는 건 아닌데, 맛있는 거 먹어서 기분 좋아",행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=negation; case=good_food
+맛있는 거 먹어서 기분 좋아. 이게 진짜인 걸까?,행복,,0,행복_good_food,false,celebrate,scenario_eval_v3_1008,style=question; case=good_food
+다음 주 여행 계획을 잡았어,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=plain; case=trip_plan
+"와, 다음 주 여행 계획을 잡았어!",행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=interjection; case=trip_plan
+"...다음 주 여행 계획을 잡았어, 라는 생각만 자꾸 들어",행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=trip_plan
+다음 주 여행 ㅎㅎ,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=trip_plan
+다음 주 여행 계획을 잡았어. 오늘 진짜 운 좋다.,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=trip_plan
+오늘 — 다음 주 여행 계획을 잡았다.,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=diary; case=trip_plan
+"응, 그 얘긴데, 다음 주 여행 계획을 잡았어",행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=trip_plan
+다음 주 여행 계획을 잡았어요,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=honorific; case=trip_plan
+다음 주 여행 계획을 잡았어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=trip_plan
+다음 주 여행 계획을 잡았어. 입꼬리가 자꾸 올라가,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=somatic; case=trip_plan
+"그렇게 좋다는 건 아닌데, 다음 주 여행 계획을 잡았어",행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=negation; case=trip_plan
+다음 주 여행 계획을 잡았어. 이게 진짜인 걸까?,행복,,0,행복_trip_plan,true,celebrate,scenario_eval_v3_1008,style=question; case=trip_plan
+팀장이 내 보고서를 칭찬했어,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=plain; case=praise
+"와, 팀장이 내 보고서를 칭찬했어!",행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=interjection; case=praise
+"...팀장이 내 보고서를 칭찬했어, 라는 생각만 자꾸 들어",행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=praise
+팀장이 내 보고서를 ㅎㅎ,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=praise
+팀장이 내 보고서를 칭찬했어. 오늘 진짜 운 좋다.,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=praise
+오늘 — 팀장이 내 보고서를 칭찬했다.,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=diary; case=praise
+"응, 그 얘긴데, 팀장이 내 보고서를 칭찬했어",행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=praise
+팀장이 내 보고서를 칭찬했어요,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=honorific; case=praise
+팀장이 내 보고서를 칭찬했어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=praise
+팀장이 내 보고서를 칭찬했어. 입꼬리가 자꾸 올라가,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=somatic; case=praise
+"그렇게 좋다는 건 아닌데, 팀장이 내 보고서를 칭찬했어",행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=negation; case=praise
+팀장이 내 보고서를 칭찬했어. 이게 진짜인 걸까?,행복,,0,행복_praise,true,celebrate,scenario_eval_v3_1008,style=question; case=praise
+날씨가 너무 좋아서 산책했어,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=plain; case=nice_weather
+"와, 날씨가 너무 좋아서 산책했어!",행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=interjection; case=nice_weather
+"...날씨가 너무 좋아서 산책했어, 라는 생각만 자꾸 들어",행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=self_talk; case=nice_weather
+날씨가 너무 좋아서 ㅎㅎ,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=sns_short; case=nice_weather
+날씨가 너무 좋아서 산책했어. 오늘 진짜 운 좋다.,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=sns_long; case=nice_weather
+오늘 — 날씨가 너무 좋아서 산책했다.,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=diary; case=nice_weather
+"응, 그 얘긴데, 날씨가 너무 좋아서 산책했어",행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=dialogue; case=nice_weather
+날씨가 너무 좋아서 산책했어요,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=honorific; case=nice_weather
+날씨가 너무 좋아서 산책했어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=metaphorical; case=nice_weather
+날씨가 너무 좋아서 산책했어. 입꼬리가 자꾸 올라가,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=somatic; case=nice_weather
+"그렇게 좋다는 건 아닌데, 날씨가 너무 좋아서 산책했어",행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=negation; case=nice_weather
+날씨가 너무 좋아서 산책했어. 이게 진짜인 걸까?,행복,,0,행복_nice_weather,false,celebrate,scenario_eval_v3_1008,style=question; case=nice_weather
+오랜만에 그림 그렸는데 만족스러워,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=plain; case=hobby_joy
+"와, 오랜만에 그림 그렸는데 만족스러워!",행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=interjection; case=hobby_joy
+"...오랜만에 그림 그렸는데 만족스러워, 라는 생각만 자꾸 들어",행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=self_talk; case=hobby_joy
+오랜만에 그림 그렸는데 ㅎㅎ,행복,,0,행복_hobby_joy,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=hobby_joy
+오랜만에 그림 그렸는데 만족스러워. 오늘 진짜 운 좋다.,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=sns_long; case=hobby_joy
+오늘 — 오랜만에 그림 그렸는데 만족스러워.,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=diary; case=hobby_joy
+"응, 그 얘긴데, 오랜만에 그림 그렸는데 만족스러워",행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=dialogue; case=hobby_joy
+오랜만에 그림 그렸는데 만족스러워요,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=honorific; case=hobby_joy
+오랜만에 그림 그렸는데 만족스러워. 마치 햇살이 들이치는 것 같아,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=metaphorical; case=hobby_joy
+오랜만에 그림 그렸는데 만족스러워. 입꼬리가 자꾸 올라가,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=somatic; case=hobby_joy
+"그렇게 좋다는 건 아닌데, 오랜만에 그림 그렸는데 만족스러워",행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=negation; case=hobby_joy
+오랜만에 그림 그렸는데 만족스러워. 이게 진짜인 걸까?,행복,,0,행복_hobby_joy,false,celebrate,scenario_eval_v3_1008,style=question; case=hobby_joy
+고백했는데 좋다고 답해줬어,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=plain; case=love_reply
+"와, 고백했는데 좋다고 답해줬어!",행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=interjection; case=love_reply
+"...고백했는데 좋다고 답해줬어, 라는 생각만 자꾸 들어",행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=love_reply
+고백했는데 좋다고 답해줬어 ㅎㅎ,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=love_reply
+고백했는데 좋다고 답해줬어. 오늘 진짜 운 좋다.,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=love_reply
+오늘 — 고백했는데 좋다고 답해주었다.,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=diary; case=love_reply
+"응, 그 얘긴데, 고백했는데 좋다고 답해줬어",행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=love_reply
+고백했는데 좋다고 답해줬어요,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=honorific; case=love_reply
+고백했는데 좋다고 답해줬어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=love_reply
+고백했는데 좋다고 답해줬어. 입꼬리가 자꾸 올라가,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=somatic; case=love_reply
+"그렇게 좋다는 건 아닌데, 고백했는데 좋다고 답해줬어",행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=negation; case=love_reply
+고백했는데 좋다고 답해줬어. 이게 진짜인 걸까?,행복,,0,행복_love_reply,true,celebrate,scenario_eval_v3_1008,style=question; case=love_reply
+친구가 깜짝 선물을 줬어,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=plain; case=surprise_gift
+"와, 친구가 깜짝 선물을 줬어!",행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=interjection; case=surprise_gift
+"...친구가 깜짝 선물을 줬어, 라는 생각만 자꾸 들어",행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=surprise_gift
+친구가 깜짝 선물을 ㅎㅎ,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=surprise_gift
+친구가 깜짝 선물을 줬어. 오늘 진짜 운 좋다.,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=surprise_gift
+오늘 — 친구가 깜짝 선물을 주었다.,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=diary; case=surprise_gift
+"응, 그 얘긴데, 친구가 깜짝 선물을 줬어",행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=surprise_gift
+친구가 깜짝 선물을 줬어요,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=honorific; case=surprise_gift
+친구가 깜짝 선물을 줬어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=surprise_gift
+친구가 깜짝 선물을 줬어. 입꼬리가 자꾸 올라가,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=somatic; case=surprise_gift
+"그렇게 좋다는 건 아닌데, 친구가 깜짝 선물을 줬어",행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=negation; case=surprise_gift
+친구가 깜짝 선물을 줬어. 이게 진짜인 걸까?,행복,,0,행복_surprise_gift,true,celebrate,scenario_eval_v3_1008,style=question; case=surprise_gift
+원하던 회사에서 연락이 왔어,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=plain; case=good_news
+"와, 원하던 회사에서 연락이 왔어!",행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=interjection; case=good_news
+"...원하던 회사에서 연락이 왔어, 라는 생각만 자꾸 들어",행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=self_talk; case=good_news
+원하던 회사에서 연락이 ㅎㅎ,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=sns_short; case=good_news
+원하던 회사에서 연락이 왔어. 오늘 진짜 운 좋다.,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=sns_long; case=good_news
+오늘 — 원하던 회사에서 연락이 왔어.,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=diary; case=good_news
+"응, 그 얘긴데, 원하던 회사에서 연락이 왔어",행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=dialogue; case=good_news
+원하던 회사에서 연락이 왔어요,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=honorific; case=good_news
+원하던 회사에서 연락이 왔어. 마치 햇살이 들이치는 것 같아,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=metaphorical; case=good_news
+원하던 회사에서 연락이 왔어. 입꼬리가 자꾸 올라가,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=somatic; case=good_news
+"그렇게 좋다는 건 아닌데, 원하던 회사에서 연락이 왔어",행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=negation; case=good_news
+원하던 회사에서 연락이 왔어. 이게 진짜인 걸까?,행복,,0,행복_good_news,true,celebrate,scenario_eval_v3_1008,style=question; case=good_news
+방금 점심 먹었어,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=plain; case=ate_meal
+"음, 방금 점심 먹었어.",중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=interjection; case=ate_meal
+"...방금 점심 먹었어, 라는 생각만 자꾸 들어",중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=ate_meal
+방금 점심 먹었어 ㅇㅇ,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=ate_meal
+방금 점심 먹었어. 별일 없는 하루.,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=ate_meal
+오늘 — 방금 점심 먹었다.,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=diary; case=ate_meal
+"아, 참고로 방금 점심 먹었어",중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=ate_meal
+방금 점심 먹었어요,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=honorific; case=ate_meal
+방금 점심 먹었어. 그냥 흘러가는 하루 같아,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=ate_meal
+방금 점심 먹었어. 별다른 느낌은 없어,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=somatic; case=ate_meal
+"별일이 있는 건 아닌데, 방금 점심 먹었어",중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=negation; case=ate_meal
+방금 점심 먹었어. 맞나?,중립,,0,중립_ate_meal,true,casual_share,scenario_eval_v3_1008,style=question; case=ate_meal
+출근하는 중이야,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=plain; case=commute
+"음, 출근하는 중이야.",중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=interjection; case=commute
+"...출근하는 중이야, 라는 생각만 자꾸 들어",중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=commute
+출근하는 중이야 ㅇㅇ,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=commute
+출근하는 중이야. 별일 없는 하루.,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=commute
+오늘 — 출근하는 중이였다.,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=diary; case=commute
+"아, 참고로 출근하는 중이야",중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=commute
+출근하는 중이예요,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=honorific; case=commute
+출근하는 중이야. 그냥 흘러가는 하루 같아,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=commute
+출근하는 중이야. 별다른 느낌은 없어,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=somatic; case=commute
+"별일이 있는 건 아닌데, 출근하는 중이야",중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=negation; case=commute
+출근하는 중이야. 맞나?,중립,,0,중립_commute,true,casual_share,scenario_eval_v3_1008,style=question; case=commute
+방 청소를 마쳤어,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=plain; case=cleaning
+"음, 방 청소를 마쳤어.",중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=interjection; case=cleaning
+"...방 청소를 마쳤어, 라는 생각만 자꾸 들어",중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=cleaning
+방 청소를 마쳤어 ㅇㅇ,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=cleaning
+방 청소를 마쳤어. 별일 없는 하루.,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=cleaning
+오늘 — 방 청소를 마쳤다.,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=diary; case=cleaning
+"아, 참고로 방 청소를 마쳤어",중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=cleaning
+방 청소를 마쳤어요,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=honorific; case=cleaning
+방 청소를 마쳤어. 그냥 흘러가는 하루 같아,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=cleaning
+방 청소를 마쳤어. 별다른 느낌은 없어,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=somatic; case=cleaning
+"별일이 있는 건 아닌데, 방 청소를 마쳤어",중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=negation; case=cleaning
+방 청소를 마쳤어. 맞나?,중립,,0,중립_cleaning,true,casual_share,scenario_eval_v3_1008,style=question; case=cleaning
+마트에 다녀왔어,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=plain; case=shopping
+"음, 마트에 다녀왔어.",중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=interjection; case=shopping
+"...마트에 다녀왔어, 라는 생각만 자꾸 들어",중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=shopping
+마트에 다녀왔어 ㅇㅇ,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=shopping
+마트에 다녀왔어. 별일 없는 하루.,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=shopping
+오늘 — 마트에 다녀왔다.,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=diary; case=shopping
+"아, 참고로 마트에 다녀왔어",중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=shopping
+마트에 다녀왔어요,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=honorific; case=shopping
+마트에 다녀왔어. 그냥 흘러가는 하루 같아,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=shopping
+마트에 다녀왔어. 별다른 느낌은 없어,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=somatic; case=shopping
+"별일이 있는 건 아닌데, 마트에 다녀왔어",중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=negation; case=shopping
+마트에 다녀왔어. 맞나?,중립,,0,중립_shopping,true,casual_share,scenario_eval_v3_1008,style=question; case=shopping
+내일 약속을 메모해뒀어,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=plain; case=memo
+"음, 내일 약속을 메모해뒀어.",중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=interjection; case=memo
+"...내일 약속을 메모해뒀어, 라는 생각만 자꾸 들어",중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=memo
+내일 약속을 메모해뒀어 ㅇㅇ,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=memo
+내일 약속을 메모해뒀어. 별일 없는 하루.,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=memo
+오늘 — 내일 약속을 메모해두었다.,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=diary; case=memo
+"아, 참고로 내일 약속을 메모해뒀어",중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=memo
+내일 약속을 메모해뒀어요,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=honorific; case=memo
+내일 약속을 메모해뒀어. 그냥 흘러가는 하루 같아,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=memo
+내일 약속을 메모해뒀어. 별다른 느낌은 없어,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=somatic; case=memo
+"별일이 있는 건 아닌데, 내일 약속을 메모해뒀어",중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=negation; case=memo
+내일 약속을 메모해뒀어. 맞나?,중립,,0,중립_memo,true,casual_share,scenario_eval_v3_1008,style=question; case=memo
+내일 회의 시간을 다시 확인했어,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=plain; case=appt_check
+"음, 내일 회의 시간을 다시 확인했어.",중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=interjection; case=appt_check
+"...내일 회의 시간을 다시 확인했어, 라는 생각만 자꾸 들어",중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=appt_check
+내일 회의 시간을 ㅇㅇ,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=appt_check
+내일 회의 시간을 다시 확인했어. 별일 없는 하루.,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=appt_check
+오늘 — 내일 회의 시간을 다시 확인했다.,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=diary; case=appt_check
+"아, 참고로 내일 회의 시간을 다시 확인했어",중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=appt_check
+내일 회의 시간을 다시 확인했어요,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=honorific; case=appt_check
+내일 회의 시간을 다시 확인했어. 그냥 흘러가는 하루 같아,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=appt_check
+내일 회의 시간을 다시 확인했어. 별다른 느낌은 없어,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=somatic; case=appt_check
+"별일이 있는 건 아닌데, 내일 회의 시간을 다시 확인했어",중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=negation; case=appt_check
+내일 회의 시간을 다시 확인했어. 맞나?,중립,,0,중립_appt_check,true,casual_share,scenario_eval_v3_1008,style=question; case=appt_check
+오늘 비가 온대,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=plain; case=weather_report
+"음, 오늘 비가 온대.",중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=interjection; case=weather_report
+"...오늘 비가 온대, 라는 생각만 자꾸 들어",중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=weather_report
+오늘 비가 온대 ㅇㅇ,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=weather_report
+오늘 비가 온대. 별일 없는 하루.,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=weather_report
+오늘 — 오늘 비가 온다고 했다.,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=diary; case=weather_report
+"아, 참고로 오늘 비가 온대",중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=weather_report
+오늘 비가 온대요,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=honorific; case=weather_report
+오늘 비가 온대. 그냥 흘러가는 하루 같아,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=weather_report
+오늘 비가 온대. 별다른 느낌은 없어,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=somatic; case=weather_report
+"별일이 있는 건 아닌데, 오늘 비가 온대",중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=negation; case=weather_report
+오늘 비가 온대. 맞나?,중립,,0,중립_weather_report,true,casual_share,scenario_eval_v3_1008,style=question; case=weather_report
+지금 일곱 시야,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=plain; case=time_check
+"음, 지금 일곱 시야.",중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=interjection; case=time_check
+"...지금 일곱 시야, 라는 생각만 자꾸 들어",중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=time_check
+지금 일곱 시야 ㅇㅇ,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=time_check
+지금 일곱 시야. 별일 없는 하루.,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=time_check
+오늘 — 지금 일곱 시였다.,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=diary; case=time_check
+"아, 참고로 지금 일곱 시야",중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=time_check
+지금 일곱 시예요,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=honorific; case=time_check
+지금 일곱 시야. 그냥 흘러가는 하루 같아,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=time_check
+지금 일곱 시야. 별다른 느낌은 없어,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=somatic; case=time_check
+"별일이 있는 건 아닌데, 지금 일곱 시야",중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=negation; case=time_check
+지금 일곱 시야. 맞나?,중립,,0,중립_time_check,true,casual_share,scenario_eval_v3_1008,style=question; case=time_check
+역에서 오 분 거리야,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=plain; case=directions
+"음, 역에서 오 분 거리야.",중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=interjection; case=directions
+"...역에서 오 분 거리야, 라는 생각만 자꾸 들어",중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=directions
+역에서 오 분 ㅇㅇ,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=directions
+역에서 오 분 거리야. 별일 없는 하루.,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=directions
+오늘 — 역에서 오 분 거리였다.,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=diary; case=directions
+"아, 참고로 역에서 오 분 거리야",중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=directions
+역에서 오 분 거리예요,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=honorific; case=directions
+역에서 오 분 거리야. 그냥 흘러가는 하루 같아,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=directions
+역에서 오 분 거리야. 별다른 느낌은 없어,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=somatic; case=directions
+"별일이 있는 건 아닌데, 역에서 오 분 거리야",중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=negation; case=directions
+역에서 오 분 거리야. 맞나?,중립,,0,중립_directions,true,casual_share,scenario_eval_v3_1008,style=question; case=directions
+이 가격이 저쪽보다 싸,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=plain; case=price_compare
+"음, 이 가격이 저쪽보다 싸.",중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=interjection; case=price_compare
+"...이 가격이 저쪽보다 싸, 라는 생각만 자꾸 들어",중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=price_compare
+이 가격이 저쪽보다 ㅇㅇ,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=price_compare
+이 가격이 저쪽보다 싸. 별일 없는 하루.,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=price_compare
+오늘 — 이 가격이 저쪽보다 쌌다.,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=diary; case=price_compare
+"아, 참고로 이 가격이 저쪽보다 싸",중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=price_compare
+이 가격이 저쪽보다 싸요,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=honorific; case=price_compare
+이 가격이 저쪽보다 싸. 그냥 흘러가는 하루 같아,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=price_compare
+이 가격이 저쪽보다 싸. 별다른 느낌은 없어,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=somatic; case=price_compare
+"별일이 있는 건 아닌데, 이 가격이 저쪽보다 싸",중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=negation; case=price_compare
+이 가격이 저쪽보다 싸. 맞나?,중립,,0,중립_price_compare,true,casual_share,scenario_eval_v3_1008,style=question; case=price_compare
+오늘은 김밥을 먹을래,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=plain; case=menu_decide
+"음, 오늘은 김밥을 먹을래.",중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=interjection; case=menu_decide
+"...오늘은 김밥을 먹을래, 라는 생각만 자꾸 들어",중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=menu_decide
+오늘은 김밥을 먹을래 ㅇㅇ,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=menu_decide
+오늘은 김밥을 먹을래. 별일 없는 하루.,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=menu_decide
+오늘 — 오늘은 김밥을 먹기로 했다.,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=diary; case=menu_decide
+"아, 참고로 오늘은 김밥을 먹을래",중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=menu_decide
+오늘은 김밥을 먹을래요,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=honorific; case=menu_decide
+오늘은 김밥을 먹을래. 그냥 흘러가는 하루 같아,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=menu_decide
+오늘은 김밥을 먹을래. 별다른 느낌은 없어,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=somatic; case=menu_decide
+"별일이 있는 건 아닌데, 오늘은 김밥을 먹을래",중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=negation; case=menu_decide
+오늘은 김밥을 먹을래. 맞나?,중립,,0,중립_menu_decide,true,casual_share,scenario_eval_v3_1008,style=question; case=menu_decide
+약속 장소에 도착했어,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=plain; case=meeting_arr
+"음, 약속 장소에 도착했어.",중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=interjection; case=meeting_arr
+"...약속 장소에 도착했어, 라는 생각만 자꾸 들어",중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=self_talk; case=meeting_arr
+약속 장소에 도착했어 ㅇㅇ,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=sns_short; case=meeting_arr
+약속 장소에 도착했어. 별일 없는 하루.,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=sns_long; case=meeting_arr
+오늘 — 약속 장소에 도착했다.,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=diary; case=meeting_arr
+"아, 참고로 약속 장소에 도착했어",중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=dialogue; case=meeting_arr
+약속 장소에 도착했어요,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=honorific; case=meeting_arr
+약속 장소에 도착했어. 그냥 흘러가는 하루 같아,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=metaphorical; case=meeting_arr
+약속 장소에 도착했어. 별다른 느낌은 없어,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=somatic; case=meeting_arr
+"별일이 있는 건 아닌데, 약속 장소에 도착했어",중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=negation; case=meeting_arr
+약속 장소에 도착했어. 맞나?,중립,,0,중립_meeting_arr,true,casual_share,scenario_eval_v3_1008,style=question; case=meeting_arr
+오래 만난 사람이랑 헤어졌어,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=plain; case=breakup
+"후, 오래 만난 사람이랑 헤어졌어...",슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=breakup
+"...오래 만난 사람이랑 헤어졌어, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=breakup
+오래 만난 사람이랑 ㅠㅠ,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=breakup
+오래 만난 사람이랑 헤어졌어. 하루 종일 무거워.,슬픔,,2,슬픔_breakup,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=breakup
+오늘 — 오래 만난 사람이랑 헤어졌다.,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=diary; case=breakup
+그게... 오래 만난 사람이랑 헤어졌어,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=breakup
+오래 만난 사람이랑 헤어졌어요,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=breakup
+오래 만난 사람이랑 헤어졌어. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=breakup
+오래 만난 사람이랑 헤어졌어. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_breakup,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=breakup
+"엄청 슬프다는 건 아닌데, 오래 만난 사람이랑 헤어졌어",슬픔,,2,슬픔_breakup,false,emotional_support,scenario_eval_v3_1008,style=negation; case=breakup
+오래 만난 사람이랑 헤어졌어. 왜 이런 걸까?,슬픔,,2,슬픔_breakup,true,emotional_support,scenario_eval_v3_1008,style=question; case=breakup
+혼자 있는 시간이 너무 길어,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=plain; case=loneliness
+"후, 혼자 있는 시간이 너무 길어...",슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=loneliness
+"...혼자 있는 시간이 너무 길어, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=loneliness
+혼자 있는 시간이 ㅠㅠ,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=loneliness
+혼자 있는 시간이 너무 길어. 하루 종일 무거워.,슬픔,,2,슬픔_loneliness,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=loneliness
+오늘 — 혼자 있는 시간이 너무 길었다.,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=diary; case=loneliness
+그게... 혼자 있는 시간이 너무 길어,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=loneliness
+혼자 있는 시간이 너무 길어요,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=loneliness
+혼자 있는 시간이 너무 길어. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=loneliness
+혼자 있는 시간이 너무 길어. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_loneliness,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=loneliness
+"엄청 슬프다는 건 아닌데, 혼자 있는 시간이 너무 길어",슬픔,,2,슬픔_loneliness,false,emotional_support,scenario_eval_v3_1008,style=negation; case=loneliness
+혼자 있는 시간이 너무 길어. 왜 이런 걸까?,슬픔,,2,슬픔_loneliness,true,emotional_support,scenario_eval_v3_1008,style=question; case=loneliness
+요즘 계속 가라앉아 있어,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=plain; case=depression_dur
+"후, 요즘 계속 가라앉아 있어...",슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=depression_dur
+"...요즘 계속 가라앉아 있어, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=depression_dur
+요즘 계속 가라앉아 ㅠㅠ,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=depression_dur
+요즘 계속 가라앉아 있어. 하루 종일 무거워.,슬픔,,2,슬픔_depression_dur,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=depression_dur
+오늘 — 요즘 계속 가라앉아 있었다.,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=diary; case=depression_dur
+그게... 요즘 계속 가라앉아 있어,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=depression_dur
+요즘 계속 가라앉아 있어요,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=depression_dur
+요즘 계속 가라앉아 있어. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=depression_dur
+요즘 계속 가라앉아 있어. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_depression_dur,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=depression_dur
+"엄청 슬프다는 건 아닌데, 요즘 계속 가라앉아 있어",슬픔,,2,슬픔_depression_dur,false,emotional_support,scenario_eval_v3_1008,style=negation; case=depression_dur
+요즘 계속 가라앉아 있어. 왜 이런 걸까?,슬픔,,2,슬픔_depression_dur,true,emotional_support,scenario_eval_v3_1008,style=question; case=depression_dur
+그때 그 말을 안 했어야 했어,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=plain; case=regret
+"후, 그때 그 말을 안 했어야 했어...",슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=regret
+"...그때 그 말을 안 했어야 했어, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=regret
+그때 그 말을 ㅠㅠ,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=regret
+그때 그 말을 안 했어야 했어. 하루 종일 무거워.,슬픔,,2,슬픔_regret,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=regret
+오늘 — 그때 그 말을 안 했어야 했다.,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=diary; case=regret
+그게... 그때 그 말을 안 했어야 했어,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=regret
+그때 그 말을 안 했어야 했어요,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=regret
+그때 그 말을 안 했어야 했어. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=regret
+그때 그 말을 안 했어야 했어. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_regret,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=regret
+"엄청 슬프다는 건 아닌데, 그때 그 말을 안 했어야 했어",슬픔,,2,슬픔_regret,false,emotional_support,scenario_eval_v3_1008,style=negation; case=regret
+그때 그 말을 안 했어야 했어. 왜 이런 걸까?,슬픔,,2,슬픔_regret,true,emotional_support,scenario_eval_v3_1008,style=question; case=regret
+내가 부족해서 그런 것 같아,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=plain; case=self_blame
+"후, 내가 부족해서 그런 것 같아...",슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=self_blame
+"...내가 부족해서 그런 것 같아, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=self_blame
+내가 부족해서 그런 ㅠㅠ,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=self_blame
+내가 부족해서 그런 것 같아. 하루 종일 무거워.,슬픔,,2,슬픔_self_blame,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=self_blame
+오늘 — 내가 부족해서 그런 것 같았다.,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=diary; case=self_blame
+그게... 내가 부족해서 그런 것 같아,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=self_blame
+내가 부족해서 그런 것 같아요,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=self_blame
+내가 부족해서 그런 것 같아. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=self_blame
+내가 부족해서 그런 것 같아. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_self_blame,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=self_blame
+"엄청 슬프다는 건 아닌데, 내가 부족해서 그런 것 같아",슬픔,,2,슬픔_self_blame,false,emotional_support,scenario_eval_v3_1008,style=negation; case=self_blame
+내가 부족해서 그런 것 같아. 왜 이런 걸까?,슬픔,,2,슬픔_self_blame,true,emotional_support,scenario_eval_v3_1008,style=question; case=self_blame
+뭘 해도 의미가 없는 것 같아,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=plain; case=helpless
+"후, 뭘 해도 의미가 없는 것 같아...",슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=helpless
+"...뭘 해도 의미가 없는 것 같아, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=helpless
+뭘 해도 의미가 ㅠㅠ,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=helpless
+뭘 해도 의미가 없는 것 같아. 하루 종일 무거워.,슬픔,,2,슬픔_helpless,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=helpless
+오늘 — 뭘 해도 의미가 없는 것 같았다.,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=diary; case=helpless
+그게... 뭘 해도 의미가 없는 것 같아,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=helpless
+뭘 해도 의미가 없는 것 같아요,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=helpless
+뭘 해도 의미가 없는 것 같아. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=helpless
+뭘 해도 의미가 없는 것 같아. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_helpless,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=helpless
+"엄청 슬프다는 건 아닌데, 뭘 해도 의미가 없는 것 같아",슬픔,,2,슬픔_helpless,false,emotional_support,scenario_eval_v3_1008,style=negation; case=helpless
+뭘 해도 의미가 없는 것 같아. 왜 이런 걸까?,슬픔,,2,슬픔_helpless,true,emotional_support,scenario_eval_v3_1008,style=question; case=helpless
+그 사람 생각이 자꾸 나,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=plain; case=missing
+"후, 그 사람 생각이 자꾸 나...",슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=missing
+"...그 사람 생각이 자꾸 나, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=missing
+그 사람 생각이 ㅠㅠ,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=missing
+그 사람 생각이 자꾸 나. 하루 종일 무거워.,슬픔,,2,슬픔_missing,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=missing
+오늘 — 그 사람 생각이 자꾸 났다.,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=diary; case=missing
+그게... 그 사람 생각이 자꾸 나,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=missing
+그 사람 생각이 자꾸 나요,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=missing
+그 사람 생각이 자꾸 나. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=missing
+그 사람 생각이 자꾸 나. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_missing,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=missing
+"엄청 슬프다는 건 아닌데, 그 사람 생각이 자꾸 나",슬픔,,2,슬픔_missing,false,emotional_support,scenario_eval_v3_1008,style=negation; case=missing
+그 사람 생각이 자꾸 나. 왜 이런 걸까?,슬픔,,2,슬픔_missing,true,emotional_support,scenario_eval_v3_1008,style=question; case=missing
+또 떨어졌어,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=plain; case=failure
+"후, 또 떨어졌어...",슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=failure
+"...또 떨어졌어, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=failure
+또 떨어졌어 ㅠㅠ,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=failure
+또 떨어졌어. 하루 종일 무거워.,슬픔,,2,슬픔_failure,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=failure
+오늘 — 또 떨어졌다.,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=diary; case=failure
+그게... 또 떨어졌어,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=failure
+또 떨어졌어요,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=failure
+또 떨어졌어. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=failure
+또 떨어졌어. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_failure,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=failure
+"엄청 슬프다는 건 아닌데, 또 떨어졌어",슬픔,,2,슬픔_failure,false,emotional_support,scenario_eval_v3_1008,style=negation; case=failure
+또 떨어졌어. 왜 이런 걸까?,슬픔,,2,슬픔_failure,true,emotional_support,scenario_eval_v3_1008,style=question; case=failure
+마음 한구석이 비어 있는 것 같아,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=plain; case=emptiness
+"후, 마음 한구석이 비어 있는 것 같아...",슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=emptiness
+"...마음 한구석이 비어 있는 것 같아, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=emptiness
+마음 한구석이 비어 ㅠㅠ,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=emptiness
+마음 한구석이 비어 있는 것 같아. 하루 종일 무거워.,슬픔,,2,슬픔_emptiness,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=emptiness
+오늘 — 마음 한구석이 비어 있는 것 같았다.,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=diary; case=emptiness
+그게... 마음 한구석이 비어 있는 것 같아,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=emptiness
+마음 한구석이 비어 있는 것 같아요,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=emptiness
+마음 한구석이 비어 있는 것 같아. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=emptiness
+마음 한구석이 비어 있는 것 같아. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_emptiness,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=emptiness
+"엄청 슬프다는 건 아닌데, 마음 한구석이 비어 있는 것 같아",슬픔,,2,슬픔_emptiness,false,emotional_support,scenario_eval_v3_1008,style=negation; case=emptiness
+마음 한구석이 비어 있는 것 같아. 왜 이런 걸까?,슬픔,,2,슬픔_emptiness,true,emotional_support,scenario_eval_v3_1008,style=question; case=emptiness
+이유 없이 눈물이 흘러,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=plain; case=crying
+"후, 이유 없이 눈물이 흘러...",슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=crying
+"...이유 없이 눈물이 흘러, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=self_talk; case=crying
+이유 없이 눈물이 ㅠㅠ,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=crying
+이유 없이 눈물이 흘러. 하루 종일 무거워.,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=crying
+오늘 — 이유 없이 눈물이 흘렀다.,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=diary; case=crying
+그게... 이유 없이 눈물이 흘러,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=dialogue; case=crying
+이유 없이 눈물이 흘러요,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=honorific; case=crying
+이유 없이 눈물이 흘러. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=crying
+이유 없이 눈물이 흘러. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=crying
+"엄청 슬프다는 건 아닌데, 이유 없이 눈물이 흘러",슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=negation; case=crying
+이유 없이 눈물이 흘러. 왜 이런 걸까?,슬픔,,2,슬픔_crying,false,emotional_support,scenario_eval_v3_1008,style=question; case=crying
+잠도 안 오고 마음만 무거워,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=plain; case=insomnia_dep
+"후, 잠도 안 오고 마음만 무거워...",슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=insomnia_dep
+"...잠도 안 오고 마음만 무거워, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=self_talk; case=insomnia_dep
+잠도 안 오고 ㅠㅠ,슬픔,,2,슬픔_insomnia_dep,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=insomnia_dep
+잠도 안 오고 마음만 무거워. 하루 종일 무거워.,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=insomnia_dep
+오늘 — 잠도 안 오고 마음만 무거워.,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=diary; case=insomnia_dep
+그게... 잠도 안 오고 마음만 무거워,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=dialogue; case=insomnia_dep
+잠도 안 오고 마음만 무거워요,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=honorific; case=insomnia_dep
+잠도 안 오고 마음만 무거워. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=insomnia_dep
+잠도 안 오고 마음만 무거워. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=insomnia_dep
+"엄청 슬프다는 건 아닌데, 잠도 안 오고 마음만 무거워",슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=negation; case=insomnia_dep
+잠도 안 오고 마음만 무거워. 왜 이런 걸까?,슬픔,,2,슬픔_insomnia_dep,false,emotional_support,scenario_eval_v3_1008,style=question; case=insomnia_dep
+아무것도 하고 싶지 않아,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=plain; case=apathy
+"후, 아무것도 하고 싶지 않아...",슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=interjection; case=apathy
+"...아무것도 하고 싶지 않아, 라는 생각만 자꾸 들어",슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=apathy
+아무것도 하고 싶지 ㅠㅠ,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=sns_short; case=apathy
+아무것도 하고 싶지 않아. 하루 종일 무거워.,슬픔,,2,슬픔_apathy,false,emotional_support,scenario_eval_v3_1008,style=sns_long; case=apathy
+오늘 — 아무것도 하고 싶지 않아.,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=diary; case=apathy
+그게... 아무것도 하고 싶지 않아,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=apathy
+아무것도 하고 싶지 않아요,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=apathy
+아무것도 하고 싶지 않아. 마치 비 오는 창가에 혼자 서 있는 기분이야,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=apathy
+아무것도 하고 싶지 않아. 가슴이 답답하고 명치가 무거워,슬픔,,2,슬픔_apathy,false,emotional_support,scenario_eval_v3_1008,style=somatic; case=apathy
+"엄청 슬프다는 건 아닌데, 아무것도 하고 싶지 않아",슬픔,,2,슬픔_apathy,false,emotional_support,scenario_eval_v3_1008,style=negation; case=apathy
+아무것도 하고 싶지 않아. 왜 이런 걸까?,슬픔,,2,슬픔_apathy,true,emotional_support,scenario_eval_v3_1008,style=question; case=apathy
+내일 시험이 너무 걱정돼,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=plain; case=exam_anxiety
+어... 내일 시험이 너무 걱정돼...,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=interjection; case=exam_anxiety
+"...내일 시험이 너무 걱정돼, 라는 생각만 자꾸 들어",공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=self_talk; case=exam_anxiety
+내일 시험이 너무 ㅠ,공포,,2,공포_exam_anxiety,true,grounding,scenario_eval_v3_1008,style=sns_short; case=exam_anxiety
+내일 시험이 너무 걱정돼. 자꾸 그 생각만 맴돌아.,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=sns_long; case=exam_anxiety
+오늘 — 내일 시험이 너무 걱정돼.,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=diary; case=exam_anxiety
+"음, 내일 시험이 너무 걱정돼",공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=dialogue; case=exam_anxiety
+내일 시험이 너무 걱정돼요,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=honorific; case=exam_anxiety
+내일 시험이 너무 걱정돼. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=metaphorical; case=exam_anxiety
+내일 시험이 너무 걱정돼. 손이 차가워지고 숨이 얕아져,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=somatic; case=exam_anxiety
+"두렵다고 할 정도는 아닌데, 내일 시험이 너무 걱정돼",공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=negation; case=exam_anxiety
+내일 시험이 너무 걱정돼. 어떻게 해야 하지?,공포,,2,공포_exam_anxiety,false,grounding,scenario_eval_v3_1008,style=question; case=exam_anxiety
+발표 차례가 가까워지고 있어,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=plain; case=presentation
+어... 발표 차례가 가까워지고 있어...,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=interjection; case=presentation
+"...발표 차례가 가까워지고 있어, 라는 생각만 자꾸 들어",공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=self_talk; case=presentation
+발표 차례가 가까워지고 ㅠ,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=sns_short; case=presentation
+발표 차례가 가까워지고 있어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=sns_long; case=presentation
+오늘 — 발표 차례가 가까워지고 있었다.,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=diary; case=presentation
+"음, 발표 차례가 가까워지고 있어",공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=dialogue; case=presentation
+발표 차례가 가까워지고 있어요,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=honorific; case=presentation
+발표 차례가 가까워지고 있어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=presentation
+발표 차례가 가까워지고 있어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=somatic; case=presentation
+"두렵다고 할 정도는 아닌데, 발표 차례가 가까워지고 있어",공포,,2,공포_presentation,false,grounding,scenario_eval_v3_1008,style=negation; case=presentation
+발표 차례가 가까워지고 있어. 어떻게 해야 하지?,공포,,2,공포_presentation,true,grounding,scenario_eval_v3_1008,style=question; case=presentation
+복도 불이 꺼져서 못 들어가겠어,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=plain; case=dark_place
+어... 복도 불이 꺼져서 못 들어가겠어...,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=interjection; case=dark_place
+"...복도 불이 꺼져서 못 들어가겠어, 라는 생각만 자꾸 들어",공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=self_talk; case=dark_place
+복도 불이 꺼져서 ㅠ,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=sns_short; case=dark_place
+복도 불이 꺼져서 못 들어가겠어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=sns_long; case=dark_place
+오늘 — 복도 불이 꺼져서 못 들어가겠다.,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=diary; case=dark_place
+"음, 복도 불이 꺼져서 못 들어가겠어",공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=dialogue; case=dark_place
+복도 불이 꺼져서 못 들어가겠어요,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=honorific; case=dark_place
+복도 불이 꺼져서 못 들어가겠어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=dark_place
+복도 불이 꺼져서 못 들어가겠어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=somatic; case=dark_place
+"두렵다고 할 정도는 아닌데, 복도 불이 꺼져서 못 들어가겠어",공포,,2,공포_dark_place,false,grounding,scenario_eval_v3_1008,style=negation; case=dark_place
+복도 불이 꺼져서 못 들어가겠어. 어떻게 해야 하지?,공포,,2,공포_dark_place,true,grounding,scenario_eval_v3_1008,style=question; case=dark_place
+앞일이 어떻게 될지 모르겠어,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=plain; case=uncertain_future
+어... 앞일이 어떻게 될지 모르겠어...,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=interjection; case=uncertain_future
+"...앞일이 어떻게 될지 모르겠어, 라는 생각만 자꾸 들어",공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=self_talk; case=uncertain_future
+앞일이 어떻게 될지 ㅠ,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=sns_short; case=uncertain_future
+앞일이 어떻게 될지 모르겠어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=sns_long; case=uncertain_future
+오늘 — 앞일이 어떻게 될지 모르겠다.,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=diary; case=uncertain_future
+"음, 앞일이 어떻게 될지 모르겠어",공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=dialogue; case=uncertain_future
+앞일이 어떻게 될지 모르겠어요,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=honorific; case=uncertain_future
+앞일이 어떻게 될지 모르겠어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=uncertain_future
+앞일이 어떻게 될지 모르겠어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=somatic; case=uncertain_future
+"두렵다고 할 정도는 아닌데, 앞일이 어떻게 될지 모르겠어",공포,,2,공포_uncertain_future,false,grounding,scenario_eval_v3_1008,style=negation; case=uncertain_future
+앞일이 어떻게 될지 모르겠어. 어떻게 해야 하지?,공포,,2,공포_uncertain_future,true,grounding,scenario_eval_v3_1008,style=question; case=uncertain_future
+검사 결과가 자꾸 신경 쓰여,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=plain; case=health_worry
+어... 검사 결과가 자꾸 신경 쓰여...,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=interjection; case=health_worry
+"...검사 결과가 자꾸 신경 쓰여, 라는 생각만 자꾸 들어",공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=self_talk; case=health_worry
+검사 결과가 자꾸 ㅠ,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=sns_short; case=health_worry
+검사 결과가 자꾸 신경 쓰여. 자꾸 그 생각만 맴돌아.,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=sns_long; case=health_worry
+오늘 — 검사 결과가 자꾸 신경 쓰였다.,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=diary; case=health_worry
+"음, 검사 결과가 자꾸 신경 쓰여",공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=dialogue; case=health_worry
+검사 결과가 자꾸 신경 쓰여요,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=honorific; case=health_worry
+검사 결과가 자꾸 신경 쓰여. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=health_worry
+검사 결과가 자꾸 신경 쓰여. 손이 차가워지고 숨이 얕아져,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=somatic; case=health_worry
+"두렵다고 할 정도는 아닌데, 검사 결과가 자꾸 신경 쓰여",공포,,2,공포_health_worry,false,grounding,scenario_eval_v3_1008,style=negation; case=health_worry
+검사 결과가 자꾸 신경 쓰여. 어떻게 해야 하지?,공포,,2,공포_health_worry,true,grounding,scenario_eval_v3_1008,style=question; case=health_worry
+평가 시즌이 다가오고 있어,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=plain; case=evaluation
+어... 평가 시즌이 다가오고 있어...,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=interjection; case=evaluation
+"...평가 시즌이 다가오고 있어, 라는 생각만 자꾸 들어",공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=self_talk; case=evaluation
+평가 시즌이 다가오고 ㅠ,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=sns_short; case=evaluation
+평가 시즌이 다가오고 있어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=sns_long; case=evaluation
+오늘 — 평가 시즌이 다가오고 있었다.,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=diary; case=evaluation
+"음, 평가 시즌이 다가오고 있어",공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=dialogue; case=evaluation
+평가 시즌이 다가오고 있어요,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=honorific; case=evaluation
+평가 시즌이 다가오고 있어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=evaluation
+평가 시즌이 다가오고 있어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=somatic; case=evaluation
+"두렵다고 할 정도는 아닌데, 평가 시즌이 다가오고 있어",공포,,2,공포_evaluation,false,grounding,scenario_eval_v3_1008,style=negation; case=evaluation
+평가 시즌이 다가오고 있어. 어떻게 해야 하지?,공포,,2,공포_evaluation,true,grounding,scenario_eval_v3_1008,style=question; case=evaluation
+엄마가 출장 가서 자꾸 마음이 걸려,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=plain; case=separation
+어... 엄마가 출장 가서 자꾸 마음이 걸려...,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=interjection; case=separation
+"...엄마가 출장 가서 자꾸 마음이 걸려, 라는 생각만 자꾸 들어",공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=self_talk; case=separation
+엄마가 출장 가서 ㅠ,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=sns_short; case=separation
+엄마가 출장 가서 자꾸 마음이 걸려. 자꾸 그 생각만 맴돌아.,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=sns_long; case=separation
+오늘 — 엄마가 출장 가서 자꾸 마음이 걸려.,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=diary; case=separation
+"음, 엄마가 출장 가서 자꾸 마음이 걸려",공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=dialogue; case=separation
+엄마가 출장 가서 자꾸 마음이 걸려요,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=honorific; case=separation
+엄마가 출장 가서 자꾸 마음이 걸려. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=separation
+엄마가 출장 가서 자꾸 마음이 걸려. 손이 차가워지고 숨이 얕아져,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=somatic; case=separation
+"두렵다고 할 정도는 아닌데, 엄마가 출장 가서 자꾸 마음이 걸려",공포,,2,공포_separation,false,grounding,scenario_eval_v3_1008,style=negation; case=separation
+엄마가 출장 가서 자꾸 마음이 걸려. 어떻게 해야 하지?,공포,,2,공포_separation,true,grounding,scenario_eval_v3_1008,style=question; case=separation
+모임에 가는 게 부담스러워,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=plain; case=social_anx
+어... 모임에 가는 게 부담스러워...,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=interjection; case=social_anx
+"...모임에 가는 게 부담스러워, 라는 생각만 자꾸 들어",공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=self_talk; case=social_anx
+모임에 가는 게 ㅠ,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=sns_short; case=social_anx
+모임에 가는 게 부담스러워. 자꾸 그 생각만 맴돌아.,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=sns_long; case=social_anx
+오늘 — 모임에 가는 게 부담스러웠다.,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=diary; case=social_anx
+"음, 모임에 가는 게 부담스러워",공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=dialogue; case=social_anx
+모임에 가는 게 부담스러워요,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=honorific; case=social_anx
+모임에 가는 게 부담스러워. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=social_anx
+모임에 가는 게 부담스러워. 손이 차가워지고 숨이 얕아져,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=somatic; case=social_anx
+"두렵다고 할 정도는 아닌데, 모임에 가는 게 부담스러워",공포,,2,공포_social_anx,false,grounding,scenario_eval_v3_1008,style=negation; case=social_anx
+모임에 가는 게 부담스러워. 어떻게 해야 하지?,공포,,2,공포_social_anx,true,grounding,scenario_eval_v3_1008,style=question; case=social_anx
+비행기 타기 직전에 손이 차가워졌어,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=plain; case=flight
+어... 비행기 타기 직전에 손이 차가워졌어...,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=interjection; case=flight
+"...비행기 타기 직전에 손이 차가워졌어, 라는 생각만 자꾸 들어",공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=self_talk; case=flight
+비행기 타기 직전에 ㅠ,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=sns_short; case=flight
+비행기 타기 직전에 손이 차가워졌어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=sns_long; case=flight
+오늘 — 비행기 타기 직전에 손이 차가워졌어.,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=diary; case=flight
+"음, 비행기 타기 직전에 손이 차가워졌어",공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=dialogue; case=flight
+비행기 타기 직전에 손이 차가워졌어요,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=honorific; case=flight
+비행기 타기 직전에 손이 차가워졌어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=flight
+비행기 타기 직전에 손이 차가워졌어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=somatic; case=flight
+"두렵다고 할 정도는 아닌데, 비행기 타기 직전에 손이 차가워졌어",공포,,2,공포_flight,false,grounding,scenario_eval_v3_1008,style=negation; case=flight
+비행기 타기 직전에 손이 차가워졌어. 어떻게 해야 하지?,공포,,2,공포_flight,true,grounding,scenario_eval_v3_1008,style=question; case=flight
+골목에서 누가 따라오는 줄 알았어,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=plain; case=threat
+어... 골목에서 누가 따라오는 줄 알았어...,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=interjection; case=threat
+"...골목에서 누가 따라오는 줄 알았어, 라는 생각만 자꾸 들어",공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=self_talk; case=threat
+골목에서 누가 따라오는 ㅠ,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=sns_short; case=threat
+골목에서 누가 따라오는 줄 알았어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=sns_long; case=threat
+오늘 — 골목에서 누가 따라오는 줄 알았다.,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=diary; case=threat
+"음, 골목에서 누가 따라오는 줄 알았어",공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=dialogue; case=threat
+골목에서 누가 따라오는 줄 알았어요,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=honorific; case=threat
+골목에서 누가 따라오는 줄 알았어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=threat
+골목에서 누가 따라오는 줄 알았어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=somatic; case=threat
+"두렵다고 할 정도는 아닌데, 골목에서 누가 따라오는 줄 알았어",공포,,2,공포_threat,false,grounding,scenario_eval_v3_1008,style=negation; case=threat
+골목에서 누가 따라오는 줄 알았어. 어떻게 해야 하지?,공포,,2,공포_threat,true,grounding,scenario_eval_v3_1008,style=question; case=threat
+거절당할까 봐 메시지를 못 보내고 있어,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=plain; case=rejection
+어... 거절당할까 봐 메시지를 못 보내고 있어...,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=interjection; case=rejection
+"...거절당할까 봐 메시지를 못 보내고 있어, 라는 생각만 자꾸 들어",공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=self_talk; case=rejection
+거절당할까 봐 메시지를 ㅠ,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=sns_short; case=rejection
+거절당할까 봐 메시지를 못 보내고 있어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=sns_long; case=rejection
+오늘 — 거절당할까 봐 메시지를 못 보내고 있었다.,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=diary; case=rejection
+"음, 거절당할까 봐 메시지를 못 보내고 있어",공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=dialogue; case=rejection
+거절당할까 봐 메시지를 못 보내고 있어요,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=honorific; case=rejection
+거절당할까 봐 메시지를 못 보내고 있어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=rejection
+거절당할까 봐 메시지를 못 보내고 있어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=somatic; case=rejection
+"두렵다고 할 정도는 아닌데, 거절당할까 봐 메시지를 못 보내고 있어",공포,,2,공포_rejection,false,grounding,scenario_eval_v3_1008,style=negation; case=rejection
+거절당할까 봐 메시지를 못 보내고 있어. 어떻게 해야 하지?,공포,,2,공포_rejection,true,grounding,scenario_eval_v3_1008,style=question; case=rejection
+실수하면 어떡하지 하는 생각이 자꾸 들어,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=plain; case=mistake_fear
+어... 실수하면 어떡하지 하는 생각이 자꾸 들어...,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=interjection; case=mistake_fear
+"...실수하면 어떡하지 하는 생각이 자꾸 들어, 라는 생각만 자꾸 들어",공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=self_talk; case=mistake_fear
+실수하면 어떡하지 하는 ㅠ,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=sns_short; case=mistake_fear
+실수하면 어떡하지 하는 생각이 자꾸 들어. 자꾸 그 생각만 맴돌아.,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=sns_long; case=mistake_fear
+오늘 — 실수하면 어떡하지 하는 생각이 자꾸 들었다.,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=diary; case=mistake_fear
+"음, 실수하면 어떡하지 하는 생각이 자꾸 들어",공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=dialogue; case=mistake_fear
+실수하면 어떡하지 하는 생각이 자꾸 들어요,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=honorific; case=mistake_fear
+실수하면 어떡하지 하는 생각이 자꾸 들어. 다리 한가운데 혼자 멈춰 선 느낌이야,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=metaphorical; case=mistake_fear
+실수하면 어떡하지 하는 생각이 자꾸 들어. 손이 차가워지고 숨이 얕아져,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=somatic; case=mistake_fear
+"두렵다고 할 정도는 아닌데, 실수하면 어떡하지 하는 생각이 자꾸 들어",공포,,2,공포_mistake_fear,false,grounding,scenario_eval_v3_1008,style=negation; case=mistake_fear
+실수하면 어떡하지 하는 생각이 자꾸 들어. 어떻게 해야 하지?,공포,,2,공포_mistake_fear,true,grounding,scenario_eval_v3_1008,style=question; case=mistake_fear
+냉장고 안에 곰팡이가 보였어,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=plain; case=food_mold
+"으, 냉장고 안에 곰팡이가 보였어...",혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=interjection; case=food_mold
+"...냉장고 안에 곰팡이가 보였어, 라는 생각만 자꾸 들어",혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=self_talk; case=food_mold
+냉장고 안에 곰팡이가 으...,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=sns_short; case=food_mold
+냉장고 안에 곰팡이가 보였어. 보는 것만으로도 별로야.,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=sns_long; case=food_mold
+오늘 — 냉장고 안에 곰팡이가 보였어.,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=diary; case=food_mold
+"있잖아, 냉장고 안에 곰팡이가 보였어",혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=dialogue; case=food_mold
+냉장고 안에 곰팡이가 보였어요,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=honorific; case=food_mold
+냉장고 안에 곰팡이가 보였어. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=metaphorical; case=food_mold
+냉장고 안에 곰팡이가 보였어. 위가 울렁거려,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=somatic; case=food_mold
+"혐오라고 할 것까지는 아닌데, 냉장고 안에 곰팡이가 보였어",혐오,,2,혐오_food_mold,false,validate,scenario_eval_v3_1008,style=negation; case=food_mold
+냉장고 안에 곰팡이가 보였어. 이게 정상인가?,혐오,,2,혐오_food_mold,true,validate,scenario_eval_v3_1008,style=question; case=food_mold
+화장실에 벌레가 기어다녀,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=plain; case=bug
+"으, 화장실에 벌레가 기어다녀...",혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=interjection; case=bug
+"...화장실에 벌레가 기어다녀, 라는 생각만 자꾸 들어",혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=self_talk; case=bug
+화장실에 벌레가 기어다녀 으...,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=sns_short; case=bug
+화장실에 벌레가 기어다녀. 보는 것만으로도 별로야.,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=sns_long; case=bug
+오늘 — 화장실에 벌레가 기어다녔다.,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=diary; case=bug
+"있잖아, 화장실에 벌레가 기어다녀",혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=dialogue; case=bug
+화장실에 벌레가 기어다녀요,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=honorific; case=bug
+화장실에 벌레가 기어다녀. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=metaphorical; case=bug
+화장실에 벌레가 기어다녀. 위가 울렁거려,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=somatic; case=bug
+"혐오라고 할 것까지는 아닌데, 화장실에 벌레가 기어다녀",혐오,,2,혐오_bug,false,validate,scenario_eval_v3_1008,style=negation; case=bug
+화장실에 벌레가 기어다녀. 이게 정상인가?,혐오,,2,혐오_bug,true,validate,scenario_eval_v3_1008,style=question; case=bug
+공중화장실이 너무 더러웠어,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=plain; case=toilet_dirty
+"으, 공중화장실이 너무 더러웠어...",혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=interjection; case=toilet_dirty
+"...공중화장실이 너무 더러웠어, 라는 생각만 자꾸 들어",혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=self_talk; case=toilet_dirty
+공중화장실이 너무 더러웠어 으...,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=sns_short; case=toilet_dirty
+공중화장실이 너무 더러웠어. 보는 것만으로도 별로야.,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=sns_long; case=toilet_dirty
+오늘 — 공중화장실이 너무 더러웠어.,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=diary; case=toilet_dirty
+"있잖아, 공중화장실이 너무 더러웠어",혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=dialogue; case=toilet_dirty
+공중화장실이 너무 더러웠어요,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=honorific; case=toilet_dirty
+공중화장실이 너무 더러웠어. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=metaphorical; case=toilet_dirty
+공중화장실이 너무 더러웠어. 위가 울렁거려,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=somatic; case=toilet_dirty
+"혐오라고 할 것까지는 아닌데, 공중화장실이 너무 더러웠어",혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=negation; case=toilet_dirty
+공중화장실이 너무 더러웠어. 이게 정상인가?,혐오,,2,혐오_toilet_dirty,false,validate,scenario_eval_v3_1008,style=question; case=toilet_dirty
+옆 사람한테서 이상한 냄새가 나,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=plain; case=body_odor
+"으, 옆 사람한테서 이상한 냄새가 나...",혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=interjection; case=body_odor
+"...옆 사람한테서 이상한 냄새가 나, 라는 생각만 자꾸 들어",혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=self_talk; case=body_odor
+옆 사람한테서 이상한 으...,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=sns_short; case=body_odor
+옆 사람한테서 이상한 냄새가 나. 보는 것만으로도 별로야.,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=sns_long; case=body_odor
+오늘 — 옆 사람한테서 이상한 냄새가 났다.,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=diary; case=body_odor
+"있잖아, 옆 사람한테서 이상한 냄새가 나",혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=dialogue; case=body_odor
+옆 사람한테서 이상한 냄새가 나요,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=honorific; case=body_odor
+옆 사람한테서 이상한 냄새가 나. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=metaphorical; case=body_odor
+옆 사람한테서 이상한 냄새가 나. 위가 울렁거려,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=somatic; case=body_odor
+"혐오라고 할 것까지는 아닌데, 옆 사람한테서 이상한 냄새가 나",혐오,,2,혐오_body_odor,false,validate,scenario_eval_v3_1008,style=negation; case=body_odor
+옆 사람한테서 이상한 냄새가 나. 이게 정상인가?,혐오,,2,혐오_body_odor,true,validate,scenario_eval_v3_1008,style=question; case=body_odor
+사람들 앞에서 침을 뱉더라,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=plain; case=rude_act
+"으, 사람들 앞에서 침을 뱉더라...",혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=interjection; case=rude_act
+"...사람들 앞에서 침을 뱉더라, 라는 생각만 자꾸 들어",혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=self_talk; case=rude_act
+사람들 앞에서 침을 으...,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=sns_short; case=rude_act
+사람들 앞에서 침을 뱉더라. 보는 것만으로도 별로야.,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=sns_long; case=rude_act
+오늘 — 사람들 앞에서 침을 뱉었다.,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=diary; case=rude_act
+"있잖아, 사람들 앞에서 침을 뱉더라",혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=dialogue; case=rude_act
+사람들 앞에서 침을 뱉더라고요,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=honorific; case=rude_act
+사람들 앞에서 침을 뱉더라. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=metaphorical; case=rude_act
+사람들 앞에서 침을 뱉더라. 위가 울렁거려,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=somatic; case=rude_act
+"혐오라고 할 것까지는 아닌데, 사람들 앞에서 침을 뱉더라",혐오,,2,혐오_rude_act,false,validate,scenario_eval_v3_1008,style=negation; case=rude_act
+사람들 앞에서 침을 뱉더라. 이게 정상인가?,혐오,,2,혐오_rude_act,true,validate,scenario_eval_v3_1008,style=question; case=rude_act
+거짓말로 사기 친 사람 얘기를 들었어,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=plain; case=moral_disgust
+"으, 거짓말로 사기 친 사람 얘기를 들었어...",혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=interjection; case=moral_disgust
+"...거짓말로 사기 친 사람 얘기를 들었어, 라는 생각만 자꾸 들어",혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=self_talk; case=moral_disgust
+거짓말로 사기 친 으...,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=sns_short; case=moral_disgust
+거짓말로 사기 친 사람 얘기를 들었어. 보는 것만으로도 별로야.,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=sns_long; case=moral_disgust
+오늘 — 거짓말로 사기 친 사람 얘기를 들었다.,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=diary; case=moral_disgust
+"있잖아, 거짓말로 사기 친 사람 얘기를 들었어",혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=dialogue; case=moral_disgust
+거짓말로 사기 친 사람 얘기를 들었어요,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=honorific; case=moral_disgust
+거짓말로 사기 친 사람 얘기를 들었어. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=metaphorical; case=moral_disgust
+거짓말로 사기 친 사람 얘기를 들었어. 위가 울렁거려,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=somatic; case=moral_disgust
+"혐오라고 할 것까지는 아닌데, 거짓말로 사기 친 사람 얘기를 들었어",혐오,,2,혐오_moral_disgust,false,validate,scenario_eval_v3_1008,style=negation; case=moral_disgust
+거짓말로 사기 친 사람 얘기를 들었어. 이게 정상인가?,혐오,,2,혐오_moral_disgust,true,validate,scenario_eval_v3_1008,style=question; case=moral_disgust
+그 음식 식감이 도저히 안 받아,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=plain; case=texture
+"으, 그 음식 식감이 도저히 안 받아...",혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=interjection; case=texture
+"...그 음식 식감이 도저히 안 받아, 라는 생각만 자꾸 들어",혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=self_talk; case=texture
+그 음식 식감이 으...,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=sns_short; case=texture
+그 음식 식감이 도저히 안 받아. 보는 것만으로도 별로야.,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=sns_long; case=texture
+오늘 — 그 음식 식감이 도저히 안 받지 못한다.,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=diary; case=texture
+"있잖아, 그 음식 식감이 도저히 안 받아",혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=dialogue; case=texture
+그 음식 식감이 도저히 안 받아요,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=honorific; case=texture
+그 음식 식감이 도저히 안 받아. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=metaphorical; case=texture
+그 음식 식감이 도저히 안 받아. 위가 울렁거려,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=somatic; case=texture
+"혐오라고 할 것까지는 아닌데, 그 음식 식감이 도저히 안 받아",혐오,,2,혐오_texture,false,validate,scenario_eval_v3_1008,style=negation; case=texture
+그 음식 식감이 도저히 안 받아. 이게 정상인가?,혐오,,2,혐오_texture,true,validate,scenario_eval_v3_1008,style=question; case=texture
+방이 며칠째 정리 안 돼서 보기 싫어,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=plain; case=dirty_env
+"으, 방이 며칠째 정리 안 돼서 보기 싫어...",혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=interjection; case=dirty_env
+"...방이 며칠째 정리 안 돼서 보기 싫어, 라는 생각만 자꾸 들어",혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=self_talk; case=dirty_env
+방이 며칠째 정리 으...,혐오,,2,혐오_dirty_env,true,validate,scenario_eval_v3_1008,style=sns_short; case=dirty_env
+방이 며칠째 정리 안 돼서 보기 싫어. 보는 것만으로도 별로야.,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=sns_long; case=dirty_env
+오늘 — 방이 며칠째 정리 안 돼서 보기 싫어.,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=diary; case=dirty_env
+"있잖아, 방이 며칠째 정리 안 돼서 보기 싫어",혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=dialogue; case=dirty_env
+방이 며칠째 정리 안 돼서 보기 싫어요,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=honorific; case=dirty_env
+방이 며칠째 정리 안 돼서 보기 싫어. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=metaphorical; case=dirty_env
+방이 며칠째 정리 안 돼서 보기 싫어. 위가 울렁거려,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=somatic; case=dirty_env
+"혐오라고 할 것까지는 아닌데, 방이 며칠째 정리 안 돼서 보기 싫어",혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=negation; case=dirty_env
+방이 며칠째 정리 안 돼서 보기 싫어. 이게 정상인가?,혐오,,2,혐오_dirty_env,false,validate,scenario_eval_v3_1008,style=question; case=dirty_env
+토한 자국을 그대로 두고 갔더라,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=plain; case=body_fluid
+"으, 토한 자국을 그대로 두고 갔더라...",혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=interjection; case=body_fluid
+"...토한 자국을 그대로 두고 갔더라, 라는 생각만 자꾸 들어",혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=self_talk; case=body_fluid
+토한 자국을 그대로 으...,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=sns_short; case=body_fluid
+토한 자국을 그대로 두고 갔더라. 보는 것만으로도 별로야.,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=sns_long; case=body_fluid
+오늘 — 토한 자국을 그대로 두고 갔다.,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=diary; case=body_fluid
+"있잖아, 토한 자국을 그대로 두고 갔더라",혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=dialogue; case=body_fluid
+토한 자국을 그대로 두고 갔더라고요,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=honorific; case=body_fluid
+토한 자국을 그대로 두고 갔더라. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=metaphorical; case=body_fluid
+토한 자국을 그대로 두고 갔더라. 위가 울렁거려,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=somatic; case=body_fluid
+"혐오라고 할 것까지는 아닌데, 토한 자국을 그대로 두고 갔더라",혐오,,2,혐오_body_fluid,false,validate,scenario_eval_v3_1008,style=negation; case=body_fluid
+토한 자국을 그대로 두고 갔더라. 이게 정상인가?,혐오,,2,혐오_body_fluid,true,validate,scenario_eval_v3_1008,style=question; case=body_fluid
+음식이 상해서 냄새가 진동해,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=plain; case=rotten
+"으, 음식이 상해서 냄새가 진동해...",혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=interjection; case=rotten
+"...음식이 상해서 냄새가 진동해, 라는 생각만 자꾸 들어",혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=self_talk; case=rotten
+음식이 상해서 냄새가 으...,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=sns_short; case=rotten
+음식이 상해서 냄새가 진동해. 보는 것만으로도 별로야.,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=sns_long; case=rotten
+오늘 — 음식이 상해서 냄새가 진동했다.,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=diary; case=rotten
+"있잖아, 음식이 상해서 냄새가 진동해",혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=dialogue; case=rotten
+음식이 상해서 냄새가 진동해요,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=honorific; case=rotten
+음식이 상해서 냄새가 진동해. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=metaphorical; case=rotten
+음식이 상해서 냄새가 진동해. 위가 울렁거려,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=somatic; case=rotten
+"혐오라고 할 것까지는 아닌데, 음식이 상해서 냄새가 진동해",혐오,,2,혐오_rotten,false,validate,scenario_eval_v3_1008,style=negation; case=rotten
+음식이 상해서 냄새가 진동해. 이게 정상인가?,혐오,,2,혐오_rotten,true,validate,scenario_eval_v3_1008,style=question; case=rotten
+뉴스에서 끔찍한 장면이 나왔어,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=plain; case=violent_scene
+"으, 뉴스에서 끔찍한 장면이 나왔어...",혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=interjection; case=violent_scene
+"...뉴스에서 끔찍한 장면이 나왔어, 라는 생각만 자꾸 들어",혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=self_talk; case=violent_scene
+뉴스에서 끔찍한 장면이 으...,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=sns_short; case=violent_scene
+뉴스에서 끔찍한 장면이 나왔어. 보는 것만으로도 별로야.,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=sns_long; case=violent_scene
+오늘 — 뉴스에서 끔찍한 장면이 나왔다.,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=diary; case=violent_scene
+"있잖아, 뉴스에서 끔찍한 장면이 나왔어",혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=dialogue; case=violent_scene
+뉴스에서 끔찍한 장면이 나왔어요,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=honorific; case=violent_scene
+뉴스에서 끔찍한 장면이 나왔어. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=metaphorical; case=violent_scene
+뉴스에서 끔찍한 장면이 나왔어. 위가 울렁거려,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=somatic; case=violent_scene
+"혐오라고 할 것까지는 아닌데, 뉴스에서 끔찍한 장면이 나왔어",혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=negation; case=violent_scene
+뉴스에서 끔찍한 장면이 나왔어. 이게 정상인가?,혐오,,2,혐오_violent_scene,false,validate,scenario_eval_v3_1008,style=question; case=violent_scene
+겉으로만 좋은 척하는 게 보여,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=plain; case=hypocrisy
+"으, 겉으로만 좋은 척하는 게 보여...",혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=interjection; case=hypocrisy
+"...겉으로만 좋은 척하는 게 보여, 라는 생각만 자꾸 들어",혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=self_talk; case=hypocrisy
+겉으로만 좋은 척하는 으...,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=sns_short; case=hypocrisy
+겉으로만 좋은 척하는 게 보여. 보는 것만으로도 별로야.,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=sns_long; case=hypocrisy
+오늘 — 겉으로만 좋은 척하는 게 보여.,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=diary; case=hypocrisy
+"있잖아, 겉으로만 좋은 척하는 게 보여",혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=dialogue; case=hypocrisy
+겉으로만 좋은 척하는 게 보여요,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=honorific; case=hypocrisy
+겉으로만 좋은 척하는 게 보여. 입안에 모래 한 줌이 든 기분이야,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=metaphorical; case=hypocrisy
+겉으로만 좋은 척하는 게 보여. 위가 울렁거려,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=somatic; case=hypocrisy
+"혐오라고 할 것까지는 아닌데, 겉으로만 좋은 척하는 게 보여",혐오,,2,혐오_hypocrisy,false,validate,scenario_eval_v3_1008,style=negation; case=hypocrisy
+겉으로만 좋은 척하는 게 보여. 이게 정상인가?,혐오,,2,혐오_hypocrisy,true,validate,scenario_eval_v3_1008,style=question; case=hypocrisy
+내 말은 아예 듣지도 않더라,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=plain; case=ignored
+"하, 내 말은 아예 듣지도 않더라 진짜.",분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=interjection; case=ignored
+"...내 말은 아예 듣지도 않더라, 라는 생각만 자꾸 들어",분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=self_talk; case=ignored
+내 말은 아예 하...,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=sns_short; case=ignored
+내 말은 아예 듣지도 않더라. 생각할수록 어이없어.,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=sns_long; case=ignored
+오늘 — 내 말은 아예 듣지도 않더라.,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=diary; case=ignored
+"들어봐, 내 말은 아예 듣지도 않더라",분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=dialogue; case=ignored
+내 말은 아예 듣지도 않더라요,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=honorific; case=ignored
+내 말은 아예 듣지도 않더라. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=metaphorical; case=ignored
+내 말은 아예 듣지도 않더라. 머리에 피가 도는 느낌이야,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=somatic; case=ignored
+"화났다고까지 할 건 아닌데, 내 말은 아예 듣지도 않더라",분노,,2,분노_ignored,false,validate,scenario_eval_v3_1008,style=negation; case=ignored
+내 말은 아예 듣지도 않더라. 이런 게 말이 돼?,분노,,2,분노_ignored,true,validate,scenario_eval_v3_1008,style=question; case=ignored
+평가 기준이 나한테만 가혹해,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=plain; case=unfair
+"하, 평가 기준이 나한테만 가혹해 진짜.",분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=interjection; case=unfair
+"...평가 기준이 나한테만 가혹해, 라는 생각만 자꾸 들어",분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=self_talk; case=unfair
+평가 기준이 나한테만 하...,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=sns_short; case=unfair
+평가 기준이 나한테만 가혹해. 생각할수록 어이없어.,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=sns_long; case=unfair
+오늘 — 평가 기준이 나한테만 가혹했다.,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=diary; case=unfair
+"들어봐, 평가 기준이 나한테만 가혹해",분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=dialogue; case=unfair
+평가 기준이 나한테만 가혹해요,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=honorific; case=unfair
+평가 기준이 나한테만 가혹해. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=metaphorical; case=unfair
+평가 기준이 나한테만 가혹해. 머리에 피가 도는 느낌이야,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=somatic; case=unfair
+"화났다고까지 할 건 아닌데, 평가 기준이 나한테만 가혹해",분노,,2,분노_unfair,false,validate,scenario_eval_v3_1008,style=negation; case=unfair
+평가 기준이 나한테만 가혹해. 이런 게 말이 돼?,분노,,2,분노_unfair,true,validate,scenario_eval_v3_1008,style=question; case=unfair
+또 말을 바꿨어,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=plain; case=broken_promise
+"하, 또 말을 바꿨어 진짜.",분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=interjection; case=broken_promise
+"...또 말을 바꿨어, 라는 생각만 자꾸 들어",분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=self_talk; case=broken_promise
+또 말을 바꿨어 하...,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=sns_short; case=broken_promise
+또 말을 바꿨어. 생각할수록 어이없어.,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=sns_long; case=broken_promise
+오늘 — 또 말을 바꾸었다.,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=diary; case=broken_promise
+"들어봐, 또 말을 바꿨어",분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=dialogue; case=broken_promise
+또 말을 바꿨어요,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=honorific; case=broken_promise
+또 말을 바꿨어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=metaphorical; case=broken_promise
+또 말을 바꿨어. 머리에 피가 도는 느낌이야,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=somatic; case=broken_promise
+"화났다고까지 할 건 아닌데, 또 말을 바꿨어",분노,,2,분노_broken_promise,false,validate,scenario_eval_v3_1008,style=negation; case=broken_promise
+또 말을 바꿨어. 이런 게 말이 돼?,분노,,2,분노_broken_promise,true,validate,scenario_eval_v3_1008,style=question; case=broken_promise
+지하철에서 어깨 부딪히고 그냥 가더라,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=plain; case=rude_street
+"하, 지하철에서 어깨 부딪히고 그냥 가더라 진짜.",분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=interjection; case=rude_street
+"...지하철에서 어깨 부딪히고 그냥 가더라, 라는 생각만 자꾸 들어",분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=self_talk; case=rude_street
+지하철에서 어깨 부딪히고 하...,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=sns_short; case=rude_street
+지하철에서 어깨 부딪히고 그냥 가더라. 생각할수록 어이없어.,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=sns_long; case=rude_street
+오늘 — 지하철에서 어깨 부딪히고 그냥 갔다.,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=diary; case=rude_street
+"들어봐, 지하철에서 어깨 부딪히고 그냥 가더라",분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=dialogue; case=rude_street
+지하철에서 어깨 부딪히고 그냥 가더라고요,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=honorific; case=rude_street
+지하철에서 어깨 부딪히고 그냥 가더라. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=metaphorical; case=rude_street
+지하철에서 어깨 부딪히고 그냥 가더라. 머리에 피가 도는 느낌이야,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=somatic; case=rude_street
+"화났다고까지 할 건 아닌데, 지하철에서 어깨 부딪히고 그냥 가더라",분노,,2,분노_rude_street,false,validate,scenario_eval_v3_1008,style=negation; case=rude_street
+지하철에서 어깨 부딪히고 그냥 가더라. 이런 게 말이 돼?,분노,,2,분노_rude_street,true,validate,scenario_eval_v3_1008,style=question; case=rude_street
+엄마랑 또 같은 일로 부딪쳤어,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=plain; case=family_conflict
+"하, 엄마랑 또 같은 일로 부딪쳤어 진짜.",분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=interjection; case=family_conflict
+"...엄마랑 또 같은 일로 부딪쳤어, 라는 생각만 자꾸 들어",분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=self_talk; case=family_conflict
+엄마랑 또 같은 하...,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=sns_short; case=family_conflict
+엄마랑 또 같은 일로 부딪쳤어. 생각할수록 어이없어.,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=sns_long; case=family_conflict
+오늘 — 엄마랑 또 같은 일로 부딪쳤다.,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=diary; case=family_conflict
+"들어봐, 엄마랑 또 같은 일로 부딪쳤어",분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=dialogue; case=family_conflict
+엄마랑 또 같은 일로 부딪쳤어요,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=honorific; case=family_conflict
+엄마랑 또 같은 일로 부딪쳤어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=metaphorical; case=family_conflict
+엄마랑 또 같은 일로 부딪쳤어. 머리에 피가 도는 느낌이야,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=somatic; case=family_conflict
+"화났다고까지 할 건 아닌데, 엄마랑 또 같은 일로 부딪쳤어",분노,,2,분노_family_conflict,false,validate,scenario_eval_v3_1008,style=negation; case=family_conflict
+엄마랑 또 같은 일로 부딪쳤어. 이런 게 말이 돼?,분노,,2,분노_family_conflict,true,validate,scenario_eval_v3_1008,style=question; case=family_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=plain; case=boss_conflict
+"하, 상사가 내 잘못 아닌 걸 나한테 떠넘겼어 진짜.",분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=interjection; case=boss_conflict
+"...상사가 내 잘못 아닌 걸 나한테 떠넘겼어, 라는 생각만 자꾸 들어",분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=self_talk; case=boss_conflict
+상사가 내 잘못 하...,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=sns_short; case=boss_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어. 생각할수록 어이없어.,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=sns_long; case=boss_conflict
+오늘 — 상사가 내 잘못 아닌 걸 나한테 떠넘겼다.,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=diary; case=boss_conflict
+"들어봐, 상사가 내 잘못 아닌 걸 나한테 떠넘겼어",분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=dialogue; case=boss_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어요,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=honorific; case=boss_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=metaphorical; case=boss_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어. 머리에 피가 도는 느낌이야,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=somatic; case=boss_conflict
+"화났다고까지 할 건 아닌데, 상사가 내 잘못 아닌 걸 나한테 떠넘겼어",분노,,2,분노_boss_conflict,false,validate,scenario_eval_v3_1008,style=negation; case=boss_conflict
+상사가 내 잘못 아닌 걸 나한테 떠넘겼어. 이런 게 말이 돼?,분노,,2,분노_boss_conflict,true,validate,scenario_eval_v3_1008,style=question; case=boss_conflict
+이런 일이 반복되는 게 답답해,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=plain; case=social_unjust
+"하, 이런 일이 반복되는 게 답답해 진짜.",분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=interjection; case=social_unjust
+"...이런 일이 반복되는 게 답답해, 라는 생각만 자꾸 들어",분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=self_talk; case=social_unjust
+이런 일이 반복되는 하...,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=sns_short; case=social_unjust
+이런 일이 반복되는 게 답답해. 생각할수록 어이없어.,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=sns_long; case=social_unjust
+오늘 — 이런 일이 반복되는 게 답답했다.,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=diary; case=social_unjust
+"들어봐, 이런 일이 반복되는 게 답답해",분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=dialogue; case=social_unjust
+이런 일이 반복되는 게 답답해요,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=honorific; case=social_unjust
+이런 일이 반복되는 게 답답해. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=metaphorical; case=social_unjust
+이런 일이 반복되는 게 답답해. 머리에 피가 도는 느낌이야,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=somatic; case=social_unjust
+"화났다고까지 할 건 아닌데, 이런 일이 반복되는 게 답답해",분노,,2,분노_social_unjust,false,validate,scenario_eval_v3_1008,style=negation; case=social_unjust
+이런 일이 반복되는 게 답답해. 이런 게 말이 돼?,분노,,2,분노_social_unjust,true,validate,scenario_eval_v3_1008,style=question; case=social_unjust
+줄 서 있는데 새치기를 당했어,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=plain; case=cutting_line
+"하, 줄 서 있는데 새치기를 당했어 진짜.",분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=interjection; case=cutting_line
+"...줄 서 있는데 새치기를 당했어, 라는 생각만 자꾸 들어",분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=self_talk; case=cutting_line
+줄 서 있는데 하...,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=sns_short; case=cutting_line
+줄 서 있는데 새치기를 당했어. 생각할수록 어이없어.,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=sns_long; case=cutting_line
+오늘 — 줄 서 있는데 새치기를 당했다.,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=diary; case=cutting_line
+"들어봐, 줄 서 있는데 새치기를 당했어",분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=dialogue; case=cutting_line
+줄 서 있는데 새치기를 당했어요,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=honorific; case=cutting_line
+줄 서 있는데 새치기를 당했어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=metaphorical; case=cutting_line
+줄 서 있는데 새치기를 당했어. 머리에 피가 도는 느낌이야,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=somatic; case=cutting_line
+"화났다고까지 할 건 아닌데, 줄 서 있는데 새치기를 당했어",분노,,2,분노_cutting_line,false,validate,scenario_eval_v3_1008,style=negation; case=cutting_line
+줄 서 있는데 새치기를 당했어. 이런 게 말이 돼?,분노,,2,분노_cutting_line,true,validate,scenario_eval_v3_1008,style=question; case=cutting_line
+앞차가 위험하게 끼어들었어,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=plain; case=road_rage
+"하, 앞차가 위험하게 끼어들었어 진짜.",분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=interjection; case=road_rage
+"...앞차가 위험하게 끼어들었어, 라는 생각만 자꾸 들어",분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=self_talk; case=road_rage
+앞차가 위험하게 끼어들었어 하...,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=sns_short; case=road_rage
+앞차가 위험하게 끼어들었어. 생각할수록 어이없어.,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=sns_long; case=road_rage
+오늘 — 앞차가 위험하게 끼어들었다.,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=diary; case=road_rage
+"들어봐, 앞차가 위험하게 끼어들었어",분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=dialogue; case=road_rage
+앞차가 위험하게 끼어들었어요,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=honorific; case=road_rage
+앞차가 위험하게 끼어들었어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=metaphorical; case=road_rage
+앞차가 위험하게 끼어들었어. 머리에 피가 도는 느낌이야,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=somatic; case=road_rage
+"화났다고까지 할 건 아닌데, 앞차가 위험하게 끼어들었어",분노,,2,분노_road_rage,false,validate,scenario_eval_v3_1008,style=negation; case=road_rage
+앞차가 위험하게 끼어들었어. 이런 게 말이 돼?,분노,,2,분노_road_rage,true,validate,scenario_eval_v3_1008,style=question; case=road_rage
+거짓말한 게 들켰는데도 변명만 해,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=plain; case=caught_lie
+"하, 거짓말한 게 들켰는데도 변명만 해 진짜.",분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=interjection; case=caught_lie
+"...거짓말한 게 들켰는데도 변명만 해, 라는 생각만 자꾸 들어",분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=self_talk; case=caught_lie
+거짓말한 게 들켰는데도 하...,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=sns_short; case=caught_lie
+거짓말한 게 들켰는데도 변명만 해. 생각할수록 어이없어.,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=sns_long; case=caught_lie
+오늘 — 거짓말한 게 들켰는데도 변명만 해.,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=diary; case=caught_lie
+"들어봐, 거짓말한 게 들켰는데도 변명만 해",분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=dialogue; case=caught_lie
+거짓말한 게 들켰는데도 변명만 해요,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=honorific; case=caught_lie
+거짓말한 게 들켰는데도 변명만 해. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=metaphorical; case=caught_lie
+거짓말한 게 들켰는데도 변명만 해. 머리에 피가 도는 느낌이야,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=somatic; case=caught_lie
+"화났다고까지 할 건 아닌데, 거짓말한 게 들켰는데도 변명만 해",분노,,2,분노_caught_lie,false,validate,scenario_eval_v3_1008,style=negation; case=caught_lie
+거짓말한 게 들켰는데도 변명만 해. 이런 게 말이 돼?,분노,,2,분노_caught_lie,true,validate,scenario_eval_v3_1008,style=question; case=caught_lie
+친구가 뒤에서 험담했다는 걸 알게 됐어,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=plain; case=betrayal
+"하, 친구가 뒤에서 험담했다는 걸 알게 됐어 진짜.",분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=interjection; case=betrayal
+"...친구가 뒤에서 험담했다는 걸 알게 됐어, 라는 생각만 자꾸 들어",분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=self_talk; case=betrayal
+친구가 뒤에서 험담했다는 하...,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=sns_short; case=betrayal
+친구가 뒤에서 험담했다는 걸 알게 됐어. 생각할수록 어이없어.,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=sns_long; case=betrayal
+오늘 — 친구가 뒤에서 험담했다는 걸 알게 됐다.,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=diary; case=betrayal
+"들어봐, 친구가 뒤에서 험담했다는 걸 알게 됐어",분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=dialogue; case=betrayal
+친구가 뒤에서 험담했다는 걸 알게 됐어요,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=honorific; case=betrayal
+친구가 뒤에서 험담했다는 걸 알게 됐어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=metaphorical; case=betrayal
+친구가 뒤에서 험담했다는 걸 알게 됐어. 머리에 피가 도는 느낌이야,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=somatic; case=betrayal
+"화났다고까지 할 건 아닌데, 친구가 뒤에서 험담했다는 걸 알게 됐어",분노,,2,분노_betrayal,false,validate,scenario_eval_v3_1008,style=negation; case=betrayal
+친구가 뒤에서 험담했다는 걸 알게 됐어. 이런 게 말이 돼?,분노,,2,분노_betrayal,true,validate,scenario_eval_v3_1008,style=question; case=betrayal
+여자라는 이유로 빠진 적이 있어,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=plain; case=discrimination
+"하, 여자라는 이유로 빠진 적이 있어 진짜.",분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=interjection; case=discrimination
+"...여자라는 이유로 빠진 적이 있어, 라는 생각만 자꾸 들어",분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=self_talk; case=discrimination
+여자라는 이유로 빠진 하...,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=sns_short; case=discrimination
+여자라는 이유로 빠진 적이 있어. 생각할수록 어이없어.,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=sns_long; case=discrimination
+오늘 — 여자라는 이유로 빠진 적이 있었다.,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=diary; case=discrimination
+"들어봐, 여자라는 이유로 빠진 적이 있어",분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=dialogue; case=discrimination
+여자라는 이유로 빠진 적이 있어요,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=honorific; case=discrimination
+여자라는 이유로 빠진 적이 있어. 가슴 안에 뜨거운 게 휘몰아치는 것 같아,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=metaphorical; case=discrimination
+여자라는 이유로 빠진 적이 있어. 머리에 피가 도는 느낌이야,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=somatic; case=discrimination
+"화났다고까지 할 건 아닌데, 여자라는 이유로 빠진 적이 있어",분노,,2,분노_discrimination,false,validate,scenario_eval_v3_1008,style=negation; case=discrimination
+여자라는 이유로 빠진 적이 있어. 이런 게 말이 돼?,분노,,2,분노_discrimination,true,validate,scenario_eval_v3_1008,style=question; case=discrimination
+방에 갑자기 누가 들어왔어,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=plain; case=sudden_appear
+"헉, 방에 갑자기 누가 들어왔어!",놀람,,1,놀람_sudden_appear,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=sudden_appear
+"...방에 갑자기 누가 들어왔어, 라는 생각만 자꾸 들어",놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=sudden_appear
+방에 갑자기 누가 헐ㅋㅋ,놀람,,1,놀람_sudden_appear,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=sudden_appear
+방에 갑자기 누가 들어왔어. 한참 멍했어.,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=sudden_appear
+오늘 — 방에 갑자기 누가 들어왔다.,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=diary; case=sudden_appear
+"있잖아, 방에 갑자기 누가 들어왔어",놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=sudden_appear
+방에 갑자기 누가 들어왔어요,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=sudden_appear
+방에 갑자기 누가 들어왔어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=sudden_appear
+방에 갑자기 누가 들어왔어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=sudden_appear
+"놀랐다고까지는 아닌데, 방에 갑자기 누가 들어왔어",놀람,,1,놀람_sudden_appear,false,emotional_support,scenario_eval_v3_1008,style=negation; case=sudden_appear
+방에 갑자기 누가 들어왔어. 이게 진짜야?,놀람,,1,놀람_sudden_appear,true,emotional_support,scenario_eval_v3_1008,style=question; case=sudden_appear
+퇴사한다는 소식을 갑자기 들었어,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=plain; case=unexpected_news
+"헉, 퇴사한다는 소식을 갑자기 들었어!",놀람,,1,놀람_unexpected_news,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=unexpected_news
+"...퇴사한다는 소식을 갑자기 들었어, 라는 생각만 자꾸 들어",놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=unexpected_news
+퇴사한다는 소식을 갑자기 헐ㅋㅋ,놀람,,1,놀람_unexpected_news,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=unexpected_news
+퇴사한다는 소식을 갑자기 들었어. 한참 멍했어.,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=unexpected_news
+오늘 — 퇴사한다는 소식을 갑자기 들었다.,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=diary; case=unexpected_news
+"있잖아, 퇴사한다는 소식을 갑자기 들었어",놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=unexpected_news
+퇴사한다는 소식을 갑자기 들었어요,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=unexpected_news
+퇴사한다는 소식을 갑자기 들었어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=unexpected_news
+퇴사한다는 소식을 갑자기 들었어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=unexpected_news
+"놀랐다고까지는 아닌데, 퇴사한다는 소식을 갑자기 들었어",놀람,,1,놀람_unexpected_news,false,emotional_support,scenario_eval_v3_1008,style=negation; case=unexpected_news
+퇴사한다는 소식을 갑자기 들었어. 이게 진짜야?,놀람,,1,놀람_unexpected_news,true,emotional_support,scenario_eval_v3_1008,style=question; case=unexpected_news
+갑자기 굉음이 나서 심장이 떨어질 뻔했어,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=plain; case=loud_sound
+"헉, 갑자기 굉음이 나서 심장이 떨어질 뻔했어!",놀람,,1,놀람_loud_sound,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=loud_sound
+"...갑자기 굉음이 나서 심장이 떨어질 뻔했어, 라는 생각만 자꾸 들어",놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=loud_sound
+갑자기 굉음이 나서 헐ㅋㅋ,놀람,,1,놀람_loud_sound,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=loud_sound
+갑자기 굉음이 나서 심장이 떨어질 뻔했어. 한참 멍했어.,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=loud_sound
+오늘 — 갑자기 굉음이 나서 심장이 떨어질 뻔했다.,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=diary; case=loud_sound
+"있잖아, 갑자기 굉음이 나서 심장이 떨어질 뻔했어",놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=loud_sound
+갑자기 굉음이 나서 심장이 떨어질 뻔했어요,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=loud_sound
+갑자기 굉음이 나서 심장이 떨어질 뻔했어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=loud_sound
+갑자기 굉음이 나서 심장이 떨어질 뻔했어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=loud_sound
+"놀랐다고까지는 아닌데, 갑자기 굉음이 나서 심장이 떨어질 뻔했어",놀람,,1,놀람_loud_sound,false,emotional_support,scenario_eval_v3_1008,style=negation; case=loud_sound
+갑자기 굉음이 나서 심장이 떨어질 뻔했어. 이게 진짜야?,놀람,,1,놀람_loud_sound,true,emotional_support,scenario_eval_v3_1008,style=question; case=loud_sound
+통장에 모르는 돈이 들어와 있어,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=plain; case=windfall
+"헉, 통장에 모르는 돈이 들어와 있어!",놀람,,1,놀람_windfall,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=windfall
+"...통장에 모르는 돈이 들어와 있어, 라는 생각만 자꾸 들어",놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=windfall
+통장에 모르는 돈이 헐ㅋㅋ,놀람,,1,놀람_windfall,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=windfall
+통장에 모르는 돈이 들어와 있어. 한참 멍했어.,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=windfall
+오늘 — 통장에 모르는 돈이 들어와 있었다.,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=diary; case=windfall
+"있잖아, 통장에 모르는 돈이 들어와 있어",놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=windfall
+통장에 모르는 돈이 들어와 있어요,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=windfall
+통장에 모르는 돈이 들어와 있어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=windfall
+통장에 모르는 돈이 들어와 있어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=windfall
+"놀랐다고까지는 아닌데, 통장에 모르는 돈이 들어와 있어",놀람,,1,놀람_windfall,false,emotional_support,scenario_eval_v3_1008,style=negation; case=windfall
+통장에 모르는 돈이 들어와 있어. 이게 진짜야?,놀람,,1,놀람_windfall,true,emotional_support,scenario_eval_v3_1008,style=question; case=windfall
+예전 동창을 길에서 마주쳤어,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=plain; case=sudden_meet
+"헉, 예전 동창을 길에서 마주쳤어!",놀람,,1,놀람_sudden_meet,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=sudden_meet
+"...예전 동창을 길에서 마주쳤어, 라는 생각만 자꾸 들어",놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=sudden_meet
+예전 동창을 길에서 헐ㅋㅋ,놀람,,1,놀람_sudden_meet,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=sudden_meet
+예전 동창을 길에서 마주쳤어. 한참 멍했어.,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=sudden_meet
+오늘 — 예전 동창을 길에서 마주쳤다.,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=diary; case=sudden_meet
+"있잖아, 예전 동창을 길에서 마주쳤어",놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=sudden_meet
+예전 동창을 길에서 마주쳤어요,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=sudden_meet
+예전 동창을 길에서 마주쳤어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=sudden_meet
+예전 동창을 길에서 마주쳤어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=sudden_meet
+"놀랐다고까지는 아닌데, 예전 동창을 길에서 마주쳤어",놀람,,1,놀람_sudden_meet,false,emotional_support,scenario_eval_v3_1008,style=negation; case=sudden_meet
+예전 동창을 길에서 마주쳤어. 이게 진짜야?,놀람,,1,놀람_sudden_meet,true,emotional_support,scenario_eval_v3_1008,style=question; case=sudden_meet
+컵을 떨어뜨렸는데 산산조각이 났어,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=plain; case=broken_thing
+"헉, 컵을 떨어뜨렸는데 산산조각이 났어!",놀람,,1,놀람_broken_thing,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=broken_thing
+"...컵을 떨어뜨렸는데 산산조각이 났어, 라는 생각만 자꾸 들어",놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 헐ㅋㅋ,놀람,,1,놀람_broken_thing,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 났어. 한참 멍했어.,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=broken_thing
+오늘 — 컵을 떨어뜨렸는데 산산조각이 났다.,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=diary; case=broken_thing
+"있잖아, 컵을 떨어뜨렸는데 산산조각이 났어",놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 났어요,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 났어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 났어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=broken_thing
+"놀랐다고까지는 아닌데, 컵을 떨어뜨렸는데 산산조각이 났어",놀람,,1,놀람_broken_thing,false,emotional_support,scenario_eval_v3_1008,style=negation; case=broken_thing
+컵을 떨어뜨렸는데 산산조각이 났어. 이게 진짜야?,놀람,,1,놀람_broken_thing,true,emotional_support,scenario_eval_v3_1008,style=question; case=broken_thing
+맑다가 갑자기 비가 쏟아졌어,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=plain; case=sudden_rain
+"헉, 맑다가 갑자기 비가 쏟아졌어!",놀람,,1,놀람_sudden_rain,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=sudden_rain
+"...맑다가 갑자기 비가 쏟아졌어, 라는 생각만 자꾸 들어",놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=sudden_rain
+맑다가 갑자기 비가 헐ㅋㅋ,놀람,,1,놀람_sudden_rain,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=sudden_rain
+맑다가 갑자기 비가 쏟아졌어. 한참 멍했어.,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=sudden_rain
+오늘 — 맑다가 갑자기 비가 쏟아졌다.,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=diary; case=sudden_rain
+"있잖아, 맑다가 갑자기 비가 쏟아졌어",놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=sudden_rain
+맑다가 갑자기 비가 쏟아졌어요,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=sudden_rain
+맑다가 갑자기 비가 쏟아졌어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=sudden_rain
+맑다가 갑자기 비가 쏟아졌어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=sudden_rain
+"놀랐다고까지는 아닌데, 맑다가 갑자기 비가 쏟아졌어",놀람,,1,놀람_sudden_rain,false,emotional_support,scenario_eval_v3_1008,style=negation; case=sudden_rain
+맑다가 갑자기 비가 쏟아졌어. 이게 진짜야?,놀람,,1,놀람_sudden_rain,true,emotional_support,scenario_eval_v3_1008,style=question; case=sudden_rain
+눈앞에서 사고 나는 걸 봤어,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=plain; case=witness_acc
+"헉, 눈앞에서 사고 나는 걸 봤어!",놀람,,1,놀람_witness_acc,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=witness_acc
+"...눈앞에서 사고 나는 걸 봤어, 라는 생각만 자꾸 들어",놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=witness_acc
+눈앞에서 사고 나는 헐ㅋㅋ,놀람,,1,놀람_witness_acc,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=witness_acc
+눈앞에서 사고 나는 걸 봤어. 한참 멍했어.,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=witness_acc
+오늘 — 눈앞에서 사고 나는 걸 보았다.,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=diary; case=witness_acc
+"있잖아, 눈앞에서 사고 나는 걸 봤어",놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=witness_acc
+눈앞에서 사고 나는 걸 봤어요,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=witness_acc
+눈앞에서 사고 나는 걸 봤어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=witness_acc
+눈앞에서 사고 나는 걸 봤어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=witness_acc
+"놀랐다고까지는 아닌데, 눈앞에서 사고 나는 걸 봤어",놀람,,1,놀람_witness_acc,false,emotional_support,scenario_eval_v3_1008,style=negation; case=witness_acc
+눈앞에서 사고 나는 걸 봤어. 이게 진짜야?,놀람,,1,놀람_witness_acc,true,emotional_support,scenario_eval_v3_1008,style=question; case=witness_acc
+오랜만에 본 친구가 완전히 변했더라,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=plain; case=change_person
+"헉, 오랜만에 본 친구가 완전히 변했더라!",놀람,,1,놀람_change_person,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=change_person
+"...오랜만에 본 친구가 완전히 변했더라, 라는 생각만 자꾸 들어",놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=change_person
+오랜만에 본 친구가 헐ㅋㅋ,놀람,,1,놀람_change_person,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=change_person
+오랜만에 본 친구가 완전히 변했더라. 한참 멍했어.,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=change_person
+오늘 — 오랜만에 본 친구가 완전히 변해 있었다.,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=diary; case=change_person
+"있잖아, 오랜만에 본 친구가 완전히 변했더라",놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=change_person
+오랜만에 본 친구가 완전히 변했더라고요,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=change_person
+오랜만에 본 친구가 완전히 변했더라. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=change_person
+오랜만에 본 친구가 완전히 변했더라. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=change_person
+"놀랐다고까지는 아닌데, 오랜만에 본 친구가 완전히 변했더라",놀람,,1,놀람_change_person,false,emotional_support,scenario_eval_v3_1008,style=negation; case=change_person
+오랜만에 본 친구가 완전히 변했더라. 이게 진짜야?,놀람,,1,놀람_change_person,true,emotional_support,scenario_eval_v3_1008,style=question; case=change_person
+보낸 메시지에 큰 오타가 있는 걸 발견했어,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=plain; case=found_mistake
+"헉, 보낸 메시지에 큰 오타가 있는 걸 발견했어!",놀람,,1,놀람_found_mistake,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=found_mistake
+"...보낸 메시지에 큰 오타가 있는 걸 발견했어, 라는 생각만 자꾸 들어",놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=found_mistake
+보낸 메시지에 큰 헐ㅋㅋ,놀람,,1,놀람_found_mistake,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=found_mistake
+보낸 메시지에 큰 오타가 있는 걸 발견했어. 한참 멍했어.,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=found_mistake
+오늘 — 보낸 메시지에 큰 오타가 있는 걸 발견했다.,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=diary; case=found_mistake
+"있잖아, 보낸 메시지에 큰 오타가 있는 걸 발견했어",놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=found_mistake
+보낸 메시지에 큰 오타가 있는 걸 발견했어요,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=found_mistake
+보낸 메시지에 큰 오타가 있는 걸 발견했어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=found_mistake
+보낸 메시지에 큰 오타가 있는 걸 발견했어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=found_mistake
+"놀랐다고까지는 아닌데, 보낸 메시지에 큰 오타가 있는 걸 발견했어",놀람,,1,놀람_found_mistake,false,emotional_support,scenario_eval_v3_1008,style=negation; case=found_mistake
+보낸 메시지에 큰 오타가 있는 걸 발견했어. 이게 진짜야?,놀람,,1,놀람_found_mistake,true,emotional_support,scenario_eval_v3_1008,style=question; case=found_mistake
+생각하던 사람한테 마침 연락이 왔어,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=plain; case=coincidence
+"헉, 생각하던 사람한테 마침 연락이 왔어!",놀람,,1,놀람_coincidence,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=coincidence
+"...생각하던 사람한테 마침 연락이 왔어, 라는 생각만 자꾸 들어",놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=coincidence
+생각하던 사람한테 마침 헐ㅋㅋ,놀람,,1,놀람_coincidence,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=coincidence
+생각하던 사람한테 마침 연락이 왔어. 한참 멍했어.,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=coincidence
+오늘 — 생각하던 사람한테 마침 연락이 왔어.,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=diary; case=coincidence
+"있잖아, 생각하던 사람한테 마침 연락이 왔어",놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=coincidence
+생각하던 사람한테 마침 연락이 왔어요,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=coincidence
+생각하던 사람한테 마침 연락이 왔어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=coincidence
+생각하던 사람한테 마침 연락이 왔어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=coincidence
+"놀랐다고까지는 아닌데, 생각하던 사람한테 마침 연락이 왔어",놀람,,1,놀람_coincidence,false,emotional_support,scenario_eval_v3_1008,style=negation; case=coincidence
+생각하던 사람한테 마침 연락이 왔어. 이게 진짜야?,놀람,,1,놀람_coincidence,true,emotional_support,scenario_eval_v3_1008,style=question; case=coincidence
+예상 밖의 점수가 나왔어,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=plain; case=unexpected_result
+"헉, 예상 밖의 점수가 나왔어!",놀람,,1,놀람_unexpected_result,false,emotional_support,scenario_eval_v3_1008,style=interjection; case=unexpected_result
+"...예상 밖의 점수가 나왔어, 라는 생각만 자꾸 들어",놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=self_talk; case=unexpected_result
+예상 밖의 점수가 헐ㅋㅋ,놀람,,1,놀람_unexpected_result,false,emotional_support,scenario_eval_v3_1008,style=sns_short; case=unexpected_result
+예상 밖의 점수가 나왔어. 한참 멍했어.,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=sns_long; case=unexpected_result
+오늘 — 예상 밖의 점수가 나왔다.,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=diary; case=unexpected_result
+"있잖아, 예상 밖의 점수가 나왔어",놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=dialogue; case=unexpected_result
+예상 밖의 점수가 나왔어요,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=honorific; case=unexpected_result
+예상 밖의 점수가 나왔어. 발밑이 잠깐 빠진 느낌이야,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=metaphorical; case=unexpected_result
+예상 밖의 점수가 나왔어. 심장이 한 박자 늦게 뛰는 느낌이야,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=somatic; case=unexpected_result
+"놀랐다고까지는 아닌데, 예상 밖의 점수가 나왔어",놀람,,1,놀람_unexpected_result,false,emotional_support,scenario_eval_v3_1008,style=negation; case=unexpected_result
+예상 밖의 점수가 나왔어. 이게 진짜야?,놀람,,1,놀람_unexpected_result,true,emotional_support,scenario_eval_v3_1008,style=question; case=unexpected_result

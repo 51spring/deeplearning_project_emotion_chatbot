@@ -1,0 +1,44 @@
+# Submission Fresh Blind 1008 데이터셋 생성 요약
+
+- rows: 1008
+- style_count: 12
+- emotion_counts: {'공포': 144, '놀람': 144, '분노': 144, '슬픔': 144, '중립': 144, '행복': 144, '혐오': 144}
+- expected_tendency_band_counts: {'high': 48, 'low': 912, 'mid': 48}
+- exact_overlap: 0
+- compact_overlap: 0
+- checked_existing_paths:
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_dataset.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_p0_patch_20260512.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v152.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_2.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_2_rulepatch.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_3.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate_head2340_rulepatch.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate_head2340_v2cal.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate_head2355_rulepatch.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate_head2355_v2cal.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_roberta_quick_v2_4_candidate_rulepatch.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_run_v152_full.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\blind_style_emotion_1008_semantic_raw_v2_4_candidate.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\emotion_holdout_monitoring_dataset.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\emotion_holdout_monitoring_run.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\emotion_holdout_monitoring_run_self_state_fix.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\novel_style_emotion_1008_dataset.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\novel_style_emotion_1008_roberta_quick_v152.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\novel_style_emotion_1008_roberta_quick_v152_smoke.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\novel_style_emotion_1008_run.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\novel_style_emotion_1008_run_v152_full.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\operational_monitoring_review_queue.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\semantic_emotion_scenario_eval.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\semantic_emotion_scenario_eval_v2.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\semantic_emotion_scenario_eval_v3_1008.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\semantic_emotion_scenario_eval_v3_1008_roberta_quick_current_20260522.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\style_emotion_monitoring_dataset.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\style_emotion_monitoring_run.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\style_emotion_monitoring_smoke.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\wellness_blind_504_dataset.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\wellness_blind_504_roberta_quick.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\wellness_blind_504_roberta_quick_after_policy_fix.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\wellness_blind_504_run.csv
+  - C:\Users\WD\emotion_chatbot\eval\report\wellness_blind_504_run_after_policy_fix.csv
